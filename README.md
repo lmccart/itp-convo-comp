@@ -12,48 +12,48 @@ Technology is becoming a part of every conversation we have. What influence does
 #Evaluation
 
 
-#Syllabus
+##Syllabus
 
-##Unit 1: Language analysis and automation
+###Unit 1: Language analysis and automation
 
-###Week 1 (1/28): Introduction
+####Week 1 (1/28): Introduction
 * History of compuation and conversation
 * Metaphors We Live By
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 
-###Week 2 (2/4): Linguistic analysis
+####Week 2 (2/4): Linguistic analysis
 * Sentiment analysis
 * LIWC / LSM
 * Social media APIs
 
-###Week 3 (2/11): Generation and automation
+####Week 3 (2/11): Generation and automation
 * Markov chains
 * Bots
 * Gmail scripting
 * Text messages
 
-###Week 4 (2/18): Visualization and display
+####Week 4 (2/18): Visualization and display
 * Conversation / language viz
 * Public text displays
 
-##Unit 2: Physical augmentation and alternatives
+###Unit 2: Physical augmentation and alternatives
 
-###Week 5 (2/25): Augmentation apps
+####Week 5 (2/25): Augmentation apps
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
 
-###Week 6 (3/4): Physical analysis
+####Week 6 (3/4): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
 
-###Week 7 (3/11): Physical augmentation and alternatives
+####Week 7 (3/11): Physical augmentation and alternatives
 * Devices
 * Sign language, Braille
 * Physical correspondence, mail art
 
-##Unit 3: Public and performance
+###Unit 3: Public and performance
 
 ####Week 8 (3/25): Performing conversation
 * Erving Goffman
