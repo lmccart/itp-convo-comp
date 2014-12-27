@@ -62,6 +62,7 @@ Technology is becoming a part of every conversation we have. What influence does
 
 ####Week 9 (4/1): Public conversation
 * Online social dynamics
+* Anonymity
 
 ####Week 10 (4/8): Protest
 
