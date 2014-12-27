@@ -15,7 +15,7 @@ Technology is becoming a part of every conversation we have. What influence does
 ##Syllabus
 
 ###Week 1 (1/28)
-* __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) due 2/4__
+* __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 
 ###Week 2 (2/4)
 
