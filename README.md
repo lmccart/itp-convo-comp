@@ -5,14 +5,14 @@ NYU ITP, Spring 2015
 
 ####_"And the question is when is the last time that you had a great conversation, a conversation which wasn’t just two intersecting monologues, which is what passes for conversation a lot in this culture. But when had you last a great conversation, in which you overheard yourself saying things that you never knew you knew. That you heard yourself receiving from somebody words that absolutely found places within you that you thought you had lost and a sense of an event of a conversation that brought the two of you on to a different plane. …a conversation that continued to sing in your mind for weeks afterwards?"_ - John O’Donohue
 
-##Description
+#Description
 
 Technology is becoming a part of every conversation we have. What influence does it have, and how might it be further leveraged to create new possibilities? This class explores various ways conversation may be analyzed, generated, and affected by computation. Specifically, we will study methods of linguistic analysis (LIWC, LSM, sentiment analysis) and body language analysis (face tracking, expression detection, Kinect). We will experiment with conversation automation (markov chains, chatbots, email scripting, social media APIs), and building software apps (Google Hangout apps, browser extensions, Skype API, Twilio API, webRTC) and physical devices (Arduino, RPi) for augmenting and affecting conversation. Finally, we will look at more public interventions, involving performance and text displays. The class will be based around three month-long projects, complemented by readings and shorter research exercises. This will be further contextualized by conversation analysis ideas from sociology and psychology, performance studies, other artists working with these themes.
 
-##Evaluation
+#Evaluation
 
 
-##Syllabus
+#Syllabus
 
 ###Week 1 (1/28): Introduction
 * History of compuation and conversation
@@ -33,7 +33,6 @@ Technology is becoming a part of every conversation we have. What influence does
 ###Week 4 (2/18): Augmentation apps
 * Google Hangout apps
 * Browser extensions
-* Skype, Twilio, webRTC
 
 ###Week 5 (2/25): Visualization and display
 * Conversation / language viz
@@ -44,13 +43,18 @@ Technology is becoming a part of every conversation we have. What influence does
 * Expression detection
 * Body language
 
-###Week 7 (3/11): Physical augmentation
+###Week 7 (3/11): Physical augmentation and alternatives
 * Devices
-* Alternatives, sign language, Braille
+* Skype, Twilio, webRTC
+* Sign language, Braille
+* Physical correspondence, mail art
 
-###Week 8 (3/25)
+###Week 8 (3/25): Performing conversation
+* Erving Goffman
+* Scripts, cues, prompts, improv
 
-###Week 9 (4/1)
+###Week 9 (4/1): Public conversation
+* Online social dynamics
 
 ###Week 10 (4/8)
 
