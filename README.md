@@ -1,4 +1,4 @@
-itp-convo-comp
+Conversatin and Computation
 ==============
 
 ITP Conversation and Computation, Spring 2015
