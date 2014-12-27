@@ -14,20 +14,39 @@ Technology is becoming a part of every conversation we have. What influence does
 
 ##Syllabus
 
-###Week 1 (1/28)
+###Week 1 (1/28): Introduction
+* History of compuation and conversation
+* Metaphors We Live By
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 
-###Week 2 (2/4)
+###Week 2 (2/4): Linguistic analysis
+* Sentiment analysis
+* LIWC / LSM
+* Social media APIs
 
-###Week 3 (2/11)
+###Week 3 (2/11): Generation and automation
+* Markov chains
+* Bots
+* Gmail scripting
+* Text messages
 
-###Week 4 (2/18)
+###Week 4 (2/18): Augmentation apps
+* Google Hangout apps
+* Browser extensions
+* Skype, Twilio, webRTC
 
-###Week 5 (2/25)
+###Week 5 (2/25): Visualization and display
+* Conversation / language viz
+* Public text displays
 
-###Week 6 (3/4)
+###Week 6 (3/4): Physical analysis
+* Face tracking
+* Expression detection
+* Body language
 
-###Week 7 (3/11)
+###Week 7 (3/11): Physical augmentation
+* Devices
+* Alternatives, sign language, Braille
 
 ###Week 8 (3/25)
 
@@ -37,4 +56,4 @@ Technology is becoming a part of every conversation we have. What influence does
 
 ###Week 11 (4/15)
 
-###Week 12 (4/22)
+###Week 12 (4/22): Final project presentations
