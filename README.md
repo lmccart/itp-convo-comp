@@ -14,12 +14,12 @@ Technology is becoming a part of every conversation we have. What influence does
 
 #Syllabus
 
-##Unit 1: Language analysis and automation
-
 ####Week 1 (1/28): Introduction
 * History of compuation and conversation
 * Metaphors We Live By
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
+
+##Part 1: Language analysis and automation
 
 ####Week 2 (2/4): Linguistic analysis
 * Sentiment analysis
@@ -37,7 +37,7 @@ Technology is becoming a part of every conversation we have. What influence does
 * Conversation / language viz
 * Public text displays
 
-##Unit 2: Physical augmentation and alternatives
+##Part 2: Physical augmentation and alternatives
 
 ####Week 5 (2/25): Augmentation apps
 * Google Hangout apps
@@ -54,7 +54,7 @@ Technology is becoming a part of every conversation we have. What influence does
 * Sign language, Braille
 * Physical correspondence, mail art
 
-##Unit 3: Public and performance
+##Part 3: Public and performance
 
 ####Week 8 (3/25): Performing conversation
 * Erving Goffman
