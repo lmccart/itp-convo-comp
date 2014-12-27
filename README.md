@@ -55,15 +55,15 @@ Technology is becoming a part of every conversation we have. What influence does
 
 ##Unit 3: Public and performance
 
-###Week 8 (3/25): Performing conversation
+####Week 8 (3/25): Performing conversation
 * Erving Goffman
 * Scripts, cues, prompts, improv
 
-###Week 9 (4/1): Public conversation
+####Week 9 (4/1): Public conversation
 * Online social dynamics
 
-###Week 10 (4/8): Protest
+####Week 10 (4/8): Protest
 
-###Week 11 (4/15)
+####Week 11 (4/15)
 
-###Week 12 (4/22): Final project presentations
+####Week 12 (4/22): Final project presentations
