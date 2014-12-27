@@ -12,9 +12,9 @@ Technology is becoming a part of every conversation we have. What influence does
 #Evaluation
 
 
-##Syllabus
+#Syllabus
 
-###Unit 1: Language analysis and automation
+##Unit 1: Language analysis and automation
 
 ####Week 1 (1/28): Introduction
 * History of compuation and conversation
@@ -36,7 +36,7 @@ Technology is becoming a part of every conversation we have. What influence does
 * Conversation / language viz
 * Public text displays
 
-###Unit 2: Physical augmentation and alternatives
+##Unit 2: Physical augmentation and alternatives
 
 ####Week 5 (2/25): Augmentation apps
 * Google Hangout apps
@@ -53,7 +53,7 @@ Technology is becoming a part of every conversation we have. What influence does
 * Sign language, Braille
 * Physical correspondence, mail art
 
-###Unit 3: Public and performance
+##Unit 3: Public and performance
 
 ####Week 8 (3/25): Performing conversation
 * Erving Goffman
