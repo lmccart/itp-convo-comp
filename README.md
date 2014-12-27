@@ -25,6 +25,7 @@ Technology is becoming a part of every conversation we have. What influence does
 * Sentiment analysis
 * LIWC / LSM
 * Social media APIs
+* Conversation analysis
 
 ####Week 3 (2/11): Generation and automation
 * Markov chains
