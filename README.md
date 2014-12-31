@@ -18,7 +18,7 @@ Participation and Attendance 40%
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
 ###Projects
-We will have three 3-4 week projects over the course of the semester. You are expected to push your abilities both technically and conceptually to make original, thoughtful work.
+This class is divided into three "parts" or general areas of inquiry. We will have three 3-4 week projects over the course of the semester, one for each part. You are expected to push your abilities both technically and conceptually to make original, thoughtful work. There will be check-ins during the duration of each project to discuss and review progress.
 
 ###Conversation log
 Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
