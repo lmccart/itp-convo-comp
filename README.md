@@ -10,6 +10,24 @@ NYU ITP, Spring 2015
 Technology is becoming a part of every conversation we have. What influence does it have, and how might it be further leveraged to create new possibilities? This class explores various ways conversation may be analyzed, generated, and affected by computation. Specifically, we will study methods of linguistic analysis (LIWC, LSM, sentiment analysis) and body language analysis (face tracking, expression detection, Kinect). We will experiment with conversation automation (markov chains, chatbots, email scripting, social media APIs), and building software apps (Google Hangout apps, browser extensions, Skype API, Twilio API, webRTC) and physical devices (Arduino, RPi) for augmenting and affecting conversation. Finally, we will look at more public interventions, involving performance and text displays. The class will be based around three month-long projects, complemented by readings and shorter research exercises. This will be further contextualized by conversation analysis ideas from sociology and psychology, performance studies, other artists working with these themes.
 
 #Evaluation
+Grades will be determined according to the following breakdown:
+
+Projects 60%
+Participation and Attendance 40%
+
+Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
+
+###Projects
+We will have three 3-4 week projects over the course of the semester. You are expected to push your abilities both technically and conceptually to make original, thoughtful work.
+
+###Conversation log
+Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
+
+###Participation
+Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
+
+This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
+
 
 
 #Syllabus
