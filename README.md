@@ -51,7 +51,7 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 3 (2/11): Generation and automation
 * Markov chains
 * Bots
-* Projects / examples
+* Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
   * [Darius Kazemi](https://twitter.com/dariusbots)
   * [everyword](https://twitter.com/everyword)
@@ -61,7 +61,7 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 4 (2/18): Generation and automation (cont)
 * Gmail scripting
 * Text messages
-* Projects / examples
+* Survey
   * Love automation
     * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
     * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
@@ -72,6 +72,8 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
 * Public text displays
+* Survey
+  * R. Luke Dubois, [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect) 
 
 ##Part 2: Physical augmentation and alternatives
 
@@ -96,6 +98,8 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 9 (4/1): Performing conversation
 * Erving Goffman
 * Scripts, cues, prompts, improv
+* Survey
+  * Miranda July, [Somebody App](http://somebodyapp.com/) 
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
