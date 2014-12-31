@@ -52,6 +52,7 @@ This class will be participatory, you are expected to participate in discussions
 * Markov chains
 * Bots
 * Projects / examples
+  * [Christopher Strachey's 1952 love letter generator](http://www.alpha60.de/art/love_letters/Q), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
   * [Darius Kazemi](https://twitter.com/dariusbots)
   * [everyword](https://twitter.com/everyword)
   * [On Kawara tribute](https://twitter.com/On_Kawara)
