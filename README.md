@@ -94,8 +94,8 @@ This class will be participatory, you are expected to participate in discussions
   * Lee Cusack, [Let's Chat!](http://fathom.info/latest/8400) 
 * Physical feedback
 * Sign language
-  * NYT: [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&) 
-  * The Guardian: [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu)
+  * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
+  * [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu), The Guardian
 * Braille 
 * Physical correspondence, mail art
 
@@ -109,7 +109,10 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
+  * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
 * Anonymity
+  * [Why Facebook and Google's Concept of Real Names is Revolutionary](http://www.theatlantic.com/technology/archive/2011/08/why-facebook-and-googles-concept-of-real-names-is-revolutionary/243171/), The Atlantic
+  * [“Real Names” Policies Are an Abuse of Power](http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html), danah boyd
 
 ####Week 11 (4/15): Protest
 
