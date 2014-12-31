@@ -11,9 +11,10 @@ Technology is becoming a part of every conversation we have. What influence does
 
 #Evaluation
 Grades will be determined according to the following breakdown:
-
-Projects 60%
-Participation and Attendance 40%
+* Project 1 20%
+* Project 2 20%
+* Project 3 20%
+* Participation and attendance 40%
 
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
