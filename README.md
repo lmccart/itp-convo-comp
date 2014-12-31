@@ -30,42 +30,43 @@ Technology is becoming a part of every conversation we have. What influence does
 ####Week 3 (2/11): Generation and automation
 * Markov chains
 * Bots
+ 
+####Week 4 (2/18): Generation and automation (cont)
 * Gmail scripting
 * Text messages
 
-####Week 4 (2/18): Visualization and display
+####Week 5 (2/25): Visualization and display
 * Conversation / language viz
 * Public text displays
 
 ##Part 2: Physical augmentation and alternatives
 
-####Week 5 (2/25): Augmentation apps
+####Week 6 (3/4): Augmentation apps
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
 
-####Week 6 (3/4): Physical analysis
+####Week 7 (3/11): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
 
-####Week 7 (3/11): Physical augmentation and alternatives
+####Week 8 (3/25): Physical augmentation and alternatives
 * Devices
+* Physical feedback
 * Sign language, Braille
 * Physical correspondence, mail art
 
 ##Part 3: Public and performance
 
-####Week 8 (3/25): Performing conversation
+####Week 9 (4/1): Performing conversation
 * Erving Goffman
 * Scripts, cues, prompts, improv
 
-####Week 9 (4/1): Public conversation
+####Week 10 (4/8): Public conversation
 * Online social dynamics
 * Anonymity
 
-####Week 10 (4/8): Protest
-
-####Week 11 (4/15)
+####Week 11 (4/15): Protest
 
 ####Week 12 (4/22): Final project presentations
