@@ -81,6 +81,8 @@ This class will be participatory, you are expected to participate in discussions
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
+* Survey
+  * [Speaking Exchange](http://ablersite.org/2014/06/05/speaking-exchange/) 
 
 ####Week 7 (3/11): Physical analysis
 * Body language
@@ -88,9 +90,13 @@ This class will be participatory, you are expected to participate in discussions
 * Expression detection
 
 ####Week 8 (3/25): Physical augmentation and alternatives
-* Devices
+* Devices / objects
+  * Lee Cusack, [Let's Chat!](http://fathom.info/latest/8400) 
 * Physical feedback
-* Sign language, Braille
+* Sign language
+  * NYT: [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&) 
+  * The Guardian: [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu)
+* Braille 
 * Physical correspondence, mail art
 
 ##Part 3: Public and performance
