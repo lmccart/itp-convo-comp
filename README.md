@@ -50,6 +50,11 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 3 (2/11): Generation and automation
 * Markov chains
 * Bots
+* Projects / examples
+  * [Darius Kazemi](https://twitter.com/dariusbots)
+  * [everyword](https://twitter.com/everyword)
+  * [On Kawara tribute](https://twitter.com/On_Kawara)
+  * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
  
 ####Week 4 (2/18): Generation and automation (cont)
 * Gmail scripting
