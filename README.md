@@ -46,11 +46,16 @@ This class will be participatory, you are expected to participate in discussions
 * LIWC / LSM
 * Social media APIs
   * [Twitter breakup prediction](http://motherboard.vice.com/read/what-our-breakups-look-like-on-twitter) 
-* [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis)
+* [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
+* Survey
+  * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
 
 ####Week 3 (2/11): Generation and automation
 * Markov chains
 * Bots
+  * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
+  * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
+  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
 * Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
   * [Darius Kazemi](https://twitter.com/dariusbots)
@@ -59,7 +64,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
  
 ####Week 4 (2/18): Generation and automation (cont)
-* Gmail scripting
+* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
 * Survey
   * Love automation
@@ -74,6 +79,7 @@ This class will be participatory, you are expected to participate in discussions
 * Public text displays
 * Survey
   * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
+  * [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/)
 
 ##Part 2: Physical augmentation and alternatives
 
@@ -98,12 +104,13 @@ This class will be participatory, you are expected to participate in discussions
   * [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu), The Guardian
 * Braille 
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
-  * [MoMA Mail Art exhibit](http://www.moma.org/interactives/exhibitions/2014/analognetwork/) 
+  * [MoMA Mail Art exhibit](http://www.moma.org  /interactives/exhibitions/2014/analognetwork/) 
+  * [On Kawara](http://en.wikipedia.org/wiki/On_Kawara)
 
 ##Part 3: Public and performance
 
 ####Week 9 (4/1): Performing conversation
-* Erving Goffman
+* Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
 * Survey
   * [Somebody App](http://somebodyapp.com/), Miranda July
@@ -116,5 +123,8 @@ This class will be participatory, you are expected to participate in discussions
   * [“Real Names” Policies Are an Abuse of Power](http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html), danah boyd
 
 ####Week 11 (4/15): Protest
+* Survey
+  * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
+  * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
 
 ####Week 12 (4/22): Final project presentations
