@@ -14,7 +14,8 @@ Grades will be determined according to the following breakdown:
 * Project 1 20%
 * Project 2 20%
 * Project 3 20%
-* Participation and attendance 40%
+* Conversation log 15%
+* Participation and attendance 25%
 
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
@@ -22,12 +23,12 @@ Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-polic
 This class is divided into three "parts" or general areas of inquiry. We will have three 3-4 week projects over the course of the semester, one for each part. You are expected to push your abilities both technically and conceptually to make original, thoughtful work. There will be check-ins during the duration of each project to discuss and review progress.
 
 ###Conversation log
-Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
+As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
 
 ###Participation
 Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
-This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. This (along with attendance) is 40% of your grade.
+This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. There will also be occasional assigned readings. This (along with attendance) is 40% of your grade.
 
 
 
