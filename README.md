@@ -62,9 +62,12 @@ This class will be participatory, you are expected to participate in discussions
 * Gmail scripting
 * Text messages
 * Projects / examples
-  * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
-  * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
-  * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
+  * Love automation
+    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
+    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
+    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
+    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
+    * [Romantimatic](http://romantimatic.com/)
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
