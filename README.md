@@ -97,7 +97,8 @@ This class will be participatory, you are expected to participate in discussions
   * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
   * [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu), The Guardian
 * Braille 
-* Physical correspondence, mail art
+* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
+  * [MoMA Mail Art exhibit](http://www.moma.org/interactives/exhibitions/2014/analognetwork/) 
 
 ##Part 3: Public and performance
 
