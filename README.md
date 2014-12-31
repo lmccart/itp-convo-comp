@@ -45,6 +45,7 @@ This class will be participatory, you are expected to participate in discussions
 * Sentiment analysis
 * LIWC / LSM
 * Social media APIs
+  * [Twitter breakup prediction](http://motherboard.vice.com/read/what-our-breakups-look-like-on-twitter) 
 * Conversation analysis
 
 ####Week 3 (2/11): Generation and automation
@@ -59,6 +60,10 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 4 (2/18): Generation and automation (cont)
 * Gmail scripting
 * Text messages
+* Projects / examples
+  * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
+  * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
+  * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
