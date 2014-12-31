@@ -73,7 +73,7 @@ This class will be participatory, you are expected to participate in discussions
 * Conversation / language viz
 * Public text displays
 * Survey
-  * R. Luke Dubois, [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect) 
+  * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
 
 ##Part 2: Physical augmentation and alternatives
 
@@ -91,7 +91,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 8 (3/25): Physical augmentation and alternatives
 * Devices / objects
-  * Lee Cusack, [Let's Chat!](http://fathom.info/latest/8400) 
+  * [Let's Chat!](http://fathom.info/latest/8400), Lee Cusack 
 * Physical feedback
 * Sign language
   * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
@@ -105,7 +105,7 @@ This class will be participatory, you are expected to participate in discussions
 * Erving Goffman
 * Scripts, cues, prompts, improv
 * Survey
-  * Miranda July, [Somebody App](http://somebodyapp.com/) 
+  * [Somebody App](http://somebodyapp.com/), Miranda July
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
