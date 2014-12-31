@@ -46,7 +46,7 @@ This class will be participatory, you are expected to participate in discussions
 * LIWC / LSM
 * Social media APIs
   * [Twitter breakup prediction](http://motherboard.vice.com/read/what-our-breakups-look-like-on-twitter) 
-* Conversation analysis
+* [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis)
 
 ####Week 3 (2/11): Generation and automation
 * Markov chains
