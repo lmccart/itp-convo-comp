@@ -114,6 +114,7 @@ This class will be participatory, you are expected to participate in discussions
 * Scripts, cues, prompts, improv
 * Survey
   * [Somebody App](http://somebodyapp.com/), Miranda July
+  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
