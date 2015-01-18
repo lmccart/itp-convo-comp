@@ -35,7 +35,7 @@ This class will be participatory, you are expected to participate in discussions
 #Syllabus
 
 ####Week 1 (1/28): Introduction
-* History of compuation and conversation
+* History of computation and conversation
 * Metaphors We Live By
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 
