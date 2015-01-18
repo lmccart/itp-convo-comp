@@ -36,22 +36,55 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 1 (1/28): Introduction
 * History of compuation and conversation
-* Metaphors We Live By
+  * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/) 
+* [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
+* [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
+* Tools
+  * [programmableweb.com](http://www.programmableweb.com/) - giant list of APIs and resources 
+  * [kimonolabs.com](http://www.kimonolabs.com/) - easy tool for turning any website into an API
+  * [temboo.com](http://temboo.com) - simple APIs for many services in many languages
+  * [IFTTT](https://ifttt.com/channels)
+    * https://github.com/cido/ifttt-channel-extensions - create custom IFTTT channels
+   * [Twitter](https://dev.twitter.com)
+       * [Processing examples with Twitter4J](https://github.com/lmccart/AppropriatingInteractionTechnologies/tree/master/ProcessingTwitterExamples)
+   * [Snapchat](http://gibsonsec.org/snapchat/fulldisclosure/) - [Unofficial Python API](https://github.com/niothiel/snapchat-python)
+   * [Yo](http://dev.justyo.co/)
+   * [NYTimes](http://developer.nytimes.com/docs)
+   * [Twilio](https://www.twilio.com/docs/api) lets you work with phones
+
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 
 ##Part 1: Language analysis and automation
 
 ####Week 2 (2/4): Linguistic analysis
-* John Rothenberg (Sosolimited) guest lecture
+* **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
 * Sentiment analysis
 * LIWC / LSM
 * Social media APIs
   * [Twitter breakup prediction](http://motherboard.vice.com/read/what-our-breakups-look-like-on-twitter) 
 * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
+* Tools
+  * [LIWC](http://liwc.net) available for [javascript and python](https://github.com/chbrown/lexicons)
+  * [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
+  * [natural](https://github.com/NaturalNode/natural) includes tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity.
+  * [everything but the chat](https://github.com/lmccart/everything-but-the-chat) combines a little bit of everything above.
+  * [corpora](https://github.com/dariusk/corpora) is a collection of words and phrases by category.
 * Survey
   * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
 
 ####Week 3 (2/11): Generation and automation
+* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
+* Text messages
+* Survey
+  * Love automation
+    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
+    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
+    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
+    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
+    * [Romantimatic](http://romantimatic.com/)
+ 
+####Week 4 (2/18): Generation and automation (cont)
+* **[Darius Kazemi](http://tinysurversions.com) guest lecture**
 * Markov chains
 * Bots
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
@@ -63,18 +96,6 @@ This class will be participatory, you are expected to participate in discussions
   * [everyword](https://twitter.com/everyword)
   * [On Kawara tribute](https://twitter.com/On_Kawara)
   * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
- 
-####Week 4 (2/18): Generation and automation (cont)
-* Darius Kazemi guest lecture
-* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
-* Text messages
-* Survey
-  * Love automation
-    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
-    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
-    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
-    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
-    * [Romantimatic](http://romantimatic.com/)
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
@@ -97,8 +118,16 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 7 (3/11): Physical analysis
 * Body language
-* Face tracking
+* Face tracking 
 * Expression detection
+* Technical:
+  * [Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/) by Golan Levin 
+  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop
+  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies
+  * [Computer Vision in Interactive Art](https://docs.google.com/document/d/1Yky5TpKrxNDQzD7sXQ8gGpYFTsQhac1PrjYLQ3X_zJQ/edit?usp=sharing), Kyle McDonald
+  * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
+  * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
+(https://github.com/atduskgreg/Making-Things-See-Examples) which focuses on Kinect.
 
 ####Week 8 (3/25): Physical augmentation and alternatives
 * Devices / objects
