@@ -55,7 +55,7 @@ This class will be participatory, you are expected to participate in discussions
 
  
 ####Week 4 (2/18): Generation and automation (cont)
-* **[]Darius Kazemi](http://tinysubversions.com/) guest lecture**
+* **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
 
@@ -89,12 +89,6 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
-<<<<<<< HEAD
-=======
-* Survey
-  * [Somebody App](http://somebodyapp.com/), Miranda July
-  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
->>>>>>> bdb0316598b4b9e7835836d20f00612ab727bd3f
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
