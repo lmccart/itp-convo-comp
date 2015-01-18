@@ -123,6 +123,7 @@ This class will be participatory, you are expected to participate in discussions
 * Scripts, cues, prompts, improv
 * Survey
   * [Somebody App](http://somebodyapp.com/), Miranda July
+  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
   * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti 2001
   * [Inbox Full](https://www.youtube.com/watch?v=XdfIXkwvU1Y), Molly Soda
 
