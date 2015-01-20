@@ -34,6 +34,8 @@ This class will be participatory, you are expected to participate in discussions
 
 #Syllabus
 
+##Part 1: Language analysis and automation
+
 ####Week 1 (1/28): Introduction
 * History of computation and conversation
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
@@ -41,7 +43,6 @@ This class will be participatory, you are expected to participate in discussions
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
-##Part 1: Language analysis and automation
 
 ####Week 2 (2/4): Linguistic analysis
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
