@@ -26,9 +26,9 @@ This class is divided into three "parts" or general areas of inquiry. We will ha
 As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
 
 ###Participation
-Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
+Attendance is mandatory. Please inform me via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
-This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. There will also be occasional assigned readings. This (along with attendance) is 40% of your grade.
+This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. There will also be occasional assigned readings.
 
 
 

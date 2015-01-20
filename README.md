@@ -48,38 +48,37 @@ This class will be participatory, you are expected to participate in discussions
 * LIWC / LSM
 * Social media APIs
 * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
-
+* Conversation / language viz
 
 ####Week 3 (2/11): Generation and automation
-* Markov chains
-* Bots
+* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
+* Text messages
 
  
 ####Week 4 (2/18): Generation and automation (cont)
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
-* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
-* Text messages
+* Markov chains
+* Bots
 
-####Week 5 (2/25): Visualization and display
-* Conversation / language viz
-* Public text displays
 
 ##Part 2: Physical augmentation and alternatives
 
-####Week 6 (3/4): Augmentation apps
+
+####Week 5 (2/25): Augmentation apps
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
 
-
-####Week 7 (3/11): Physical analysis
+####Week 6 (3/4): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
 
-####Week 8 (3/25): Physical augmentation and alternatives
+####Week 7 (3/11): Physical augmentation and 
 * Devices / objects
 * Physical feedback
+
+####Week 8 (3/25): Alternatives
 * Sign language
 * Braille 
 * Emoji
@@ -94,6 +93,7 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
 * Anonymity
+* Public text displays
 
 ####Week 11 (4/15): Protest
 
