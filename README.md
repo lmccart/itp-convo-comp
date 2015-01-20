@@ -20,7 +20,9 @@ Grades will be determined according to the following breakdown:
 Please see ITP's statement on [Pass/Fail](http://help.itp.nyu.edu/academic-policies/pass-fail) which states that a "Pass" is equivalent to an "A" or a "B" while anything less would be considered a "Fail".
 
 ###Projects
-This class is divided into three "parts" or general areas of inquiry. We will have three 3-4 week projects over the course of the semester, one for each part. You are expected to push your abilities both technically and conceptually to make original, thoughtful work. There will be check-ins during the duration of each project to discuss and review progress.
+This class is divided into three "parts" or general areas of inquiry. We will have three 3-4 week projects over the course of the semester, one for each part. You are expected to push your abilities both technically and conceptually to make original, thoughtful work. 
+
+For each project, you will need to check-in either with me in office hours or during class to briefly discuss your idea. The class check-in will happen the week before the project is due. If you haven't met with me in office hours by then, you will be expected to present your idea to the class for feedback.
 
 ###Conversation log
 As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
