@@ -77,16 +77,16 @@ This class will be participatory, you are expected to participate in discussions
 * Face tracking
 * Expression detection
 
-####Week 7 (3/11): Physical augmentation and 
+####Week 7 (3/11): Physical augmentation 
 * Devices / objects
 * Physical feedback
+* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
 
 ####Week 8 (3/25): Alternatives
 * **Review Project 2**
 * Sign language
 * Braille 
 * Emoji
-* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
 
 ##Part 3: Public and performance
 
