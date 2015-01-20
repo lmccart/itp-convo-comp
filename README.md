@@ -39,6 +39,7 @@ This class will be participatory, you are expected to participate in discussions
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
+* __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
 ##Part 1: Language analysis and automation
 
@@ -53,12 +54,13 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 3 (2/11): Generation and automation
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
+* Markov chains
+* Bots
 
  
 ####Week 4 (2/18): Generation and automation (cont)
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
-* Markov chains
-* Bots
+* **Review Project 1**
 
 
 ##Part 2: Physical augmentation and alternatives
@@ -68,6 +70,7 @@ This class will be participatory, you are expected to participate in discussions
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
+* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
 ####Week 6 (3/4): Physical analysis
 * Body language
@@ -79,6 +82,7 @@ This class will be participatory, you are expected to participate in discussions
 * Physical feedback
 
 ####Week 8 (3/25): Alternatives
+* **Review Project 2**
 * Sign language
 * Braille 
 * Emoji
@@ -89,6 +93,7 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
+* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422) (DUE 4/22)__
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
@@ -99,3 +104,5 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ####Week 12 (4/22): Final project presentations
+* **Review Project 3**
+* Wrap-up
