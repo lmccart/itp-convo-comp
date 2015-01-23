@@ -39,6 +39,7 @@ This class will be participatory, you are expected to participate in discussions
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/) 
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
+* [Slackers film](https://www.youtube.com/watch?v=jB4xlYKAVCQ), Richard Linklater - [description](http://en.wikipedia.org/wiki/Slacker_%28film%29)
 * Tools
   * [programmableweb.com](http://www.programmableweb.com/) - giant list of APIs and resources 
   * [kimonolabs.com](http://www.kimonolabs.com/) - easy tool for turning any website into an API
@@ -73,8 +74,11 @@ This class will be participatory, you are expected to participate in discussions
   * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
 
 ####Week 3 (2/11): Generation and automation
+* [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
+* [Postcard API](https://lob.com/blog/how-to-send-postcards-as-effortlessly-as-email)
+* Dataclysm??
 * Survey
   * Love automation
     * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
@@ -96,6 +100,7 @@ This class will be participatory, you are expected to participate in discussions
   * [everyword](https://twitter.com/everyword)
   * [On Kawara tribute](https://twitter.com/On_Kawara)
   * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
+  * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
@@ -168,5 +173,6 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
   * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
+  * [Notes from OWS](https://nplusonemag.com/online-only/occupy/notes-from-an-occupation/)
 
 ####Week 12 (4/22): Final project presentations
