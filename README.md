@@ -9,6 +9,7 @@ Conversation and Computation
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 * [Google group](https://groups.google.com/forum/#!forum/convo-comp)
 * [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)
+* [Conversation tumblr log](http://convocomp.tumblr.com/)
 
 
 ![](http://payload.cargocollective.com/1/2/88505/1701748/talking_machine.jpg)
@@ -35,7 +36,7 @@ This class is divided into three "parts" or general areas of inquiry. We will ha
 For each project, you will need to check-in either with me in office hours or during class to briefly discuss your idea. The class check-in will happen the week before the project is due. If you haven't met with me in office hours by then, you will be expected to present your idea to the class for feedback.
 
 ###Conversation log
-As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the conversation log.
+As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the [conversation log](http://convocomp.tumblr.com/).
 
 ###Participation
 Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
