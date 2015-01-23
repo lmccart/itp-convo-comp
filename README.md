@@ -8,8 +8,11 @@ Conversation and Computation
 * [Office hours signup](http://bit.ly/1hECzFK), Room 455
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 * [Google group](https://groups.google.com/forum/#!forum/convo-comp)
+* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)
 
 ####_"And the question is when is the last time that you had a great conversation, a conversation which wasn’t just two intersecting monologues, which is what passes for conversation a lot in this culture. But when had you last a great conversation, in which you overheard yourself saying things that you never knew you knew. That you heard yourself receiving from somebody words that absolutely found places within you that you thought you had lost and a sense of an event of a conversation that brought the two of you on to a different plane. …a conversation that continued to sing in your mind for weeks afterwards?"_ - John O’Donohue
+
+![](http://payload.cargocollective.com/1/2/88505/1701748/talking_machine.jpg)
 
 #Description
 
