@@ -49,7 +49,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 1: Language analysis and automation
 
-####Week 1 (1/28): Introduction
+####Week [1](https://www.youtube.com/watch?v=yE-olZA6n4I&list=LLycV2DqPf5sTdl2zG9GZxrA&index=2) (1/28): Introduction
 * History of computation and conversation
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
