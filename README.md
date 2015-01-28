@@ -8,9 +8,8 @@ Conversation and Computation
 * [Office hours signup](http://bit.ly/1hECzFK), Room 455
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 * [Google group](https://groups.google.com/forum/#!forum/convo-comp)
-* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)
+* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)* 
 * [Conversation tumblr log](http://convocomp.tumblr.com/)
-
 
 ![](http://payload.cargocollective.com/1/2/88505/1701748/talking_machine.jpg)
 
@@ -39,7 +38,7 @@ For each project, you will need to check-in either with me in office hours or du
 As this class is about conversation, we will regularly engage in and push ourselves in conversation. So we are not just working theoretically. Each person will keep a "conversation log". As a class, we will generate prompts for conversations. Each week, we will choose one prompt as a class and you will have a conversation that you reflect on and respond to in a post in the [conversation log](http://convocomp.tumblr.com/).
 
 ###Participation
-Attendance is mandatory. Please inform your teacher via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
+Attendance is mandatory. Please inform me via email if you are going to miss a class. Habitually showing up late for class or an excessive number of absences will adversely affect your grade.
 
 This class will be participatory, you are expected to participate in discussions and give feedback to other students both in class and participate with their projects. There will also be occasional assigned readings. This (along with attendance) is 40% of your grade.
 
@@ -49,9 +48,8 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 1: Language analysis and automation
 
-####Week [1](https://www.youtube.com/watch?v=yE-olZA6n4I&list=LLycV2DqPf5sTdl2zG9GZxrA&index=2) (1/28): Introduction
-* History of computation and conversation
-* [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff
+####Week [1](https://www.youtube.com/watch?v=jB4xlYKAVCQ) (1/28): Introduction
+* Intro and syllabus
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
@@ -59,20 +57,30 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 2 (2/4): Linguistic analysis
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
+* [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff - [clip](https://www.youtube.com/watch?v=vm0R1du1GqA&list=PL7W7QjZ8OBa9Oa5nFHKiGUSJY52rdmoj3&index=2)
+* Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
+* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
 * Sentiment analysis
 * LIWC / LSM
 * Social media APIs
 * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
 * Conversation / language viz
+* Survey
+  * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/) and [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
 
-####Week 3 (2/11): Generation and automation
+####Week 3 (2/11): Scripting and automation
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
 * Markov chains
 * Bots
+  * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
+  * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
+  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
+* Survey
+  * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
 
  
-####Week 4 (2/18): Generation and automation (cont)
+####Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review Project 1**
 
@@ -84,38 +92,63 @@ This class will be participatory, you are expected to participate in discussions
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
+* Survey
+  * [The Radio as an Apparatus of Communication](http://alltheartever.tumblr.com/post/108065923059/der-lindberghflug-the-lindbergh-flight-by), Bertolt Brecht 1929
+  * [A Hole in Space](http://alltheartever.tumblr.com/post/103284895404/a-hole-in-space-kit-galloway-and-sherrie), Kit Galloway and Sherrie Rabinowitz 1980 - [more](http://www.medienkunstnetz.de/works/hole-in-space/)
+  * [No Fun](http://0100101110101101.org/no-fun/), Eva and Franco Mattes
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
 ####Week 6 (3/4): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
+* Survey
+  * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
 
 ####Week 7 (3/11): Physical augmentation 
 * Devices / objects
 * Physical feedback
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
+* Survey
+  * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
+  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara
 
 ####Week 8 (3/25): Alternatives
 * **Review Project 2**
 * Sign language
 * Braille 
 * Emoji
+* Survey
+  * [Let's Chat!](http://fathom.info/latest/8400), Lee Cusack
 
 ##Part 3: Public and performance
 
 ####Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
+* Survey
+  * [Somebody App](http://somebodyapp.com/), Miranda July
+  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
+  * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti 2001
+  * [Inbox Full](https://www.youtube.com/watch?v=XdfIXkwvU1Y), Molly Soda
 * __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422) (DUE 4/22)__
 
 ####Week 10 (4/8): Public conversation
 * Online social dynamics
+  * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
+  * [This American Life: If You Don't Have Anything Nice to Say, SAY IT IN ALL CAPS](http://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) and [Feminist Frequency: One Week of Harassment on Twitter](http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter)
 * Anonymity
 * Public text displays
+* Survey
+  * [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/) 
+  * [Vote Auction](http://www.vote-auction.net), Ubermorgen
 
 ####Week 11 (4/15): Protest
-
+* Survey
+  * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
+  * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
+  * [Notes from OWS](https://nplusonemag.com/online-only/occupy/notes-from-an-occupation/)
+  * [Occu-bot and Management-bot](http://taeyoonchoi.com/2011/12/occu-bot-and-financier-bot/), Taeyoon Choi
 
 ####Week 12 (4/22): Final project presentations
 * **Review Project 3**
