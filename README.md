@@ -104,6 +104,7 @@ This class will be participatory, you are expected to participate in discussions
 * Expression detection
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
+  * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
 
 ####Week 7 (3/11): Physical augmentation 
 * Devices / objects
