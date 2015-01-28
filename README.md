@@ -78,6 +78,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
 * Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
+  * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
 
  
 ####Week 4 (2/18): Generation and bots
