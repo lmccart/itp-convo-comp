@@ -8,7 +8,7 @@ Conversation and Computation
 * [Office hours signup](http://bit.ly/1hECzFK), Room 455
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 * [Google group](https://groups.google.com/forum/#!forum/convo-comp)
-* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)* 
+* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)
 * [Conversation tumblr log](http://convocomp.tumblr.com/)
 
 ![](http://payload.cargocollective.com/1/2/88505/1701748/talking_machine.jpg)
