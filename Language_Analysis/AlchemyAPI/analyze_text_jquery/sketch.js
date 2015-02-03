@@ -4,7 +4,7 @@ $(document).ready(function(){
 
   var params = {
     url: encodeURI('http://p5js.org/'),
-    apikey: '8db419e40f6edb29532e48b14b9e6223d7052880',
+    apikey: 'YOUR_KEY',
     outputMode: 'json'
   }
 

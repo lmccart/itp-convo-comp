@@ -18,7 +18,7 @@ $(document).ready(function(){
     // Get sentiment of phrase.
     var params = {
       text: res,
-      apikey: '8db419e40f6edb29532e48b14b9e6223d7052880',
+      apikey: 'YOUR_KEY',
       outputMode: 'json'
     }
 
