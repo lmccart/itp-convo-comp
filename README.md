@@ -58,6 +58,8 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 2 (2/4): Linguistic analysis
 
 * Tools
+  * [Language analysis code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Language_Analysis) 
+  * [Using APIs code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Using_APIS)
   * [AlchemyAPI](http://www.alchemyapi.com/products/demo/alchemylanguage/) - [developer guide](http://www.alchemyapi.com/developers/getting-started-guide/)
   * [Text-Processing](http://text-processing.com/) - [API on Mashape](https://www.mashape.com/japerk/text-processing/Pricing)
   * [Mashape](https://www.mashape.com/explore?query=language&page=1) -  searchable database of APIs
