@@ -1,0 +1,196 @@
+{
+    "project": {},
+    "files": {
+        "lib/response.js": {
+            "name": "lib/response.js",
+            "modules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        },
+        "lib/servi.js": {
+            "name": "lib/servi.js",
+            "modules": {},
+            "classes": {
+                "Servi": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "Servi": {
+            "name": "Servi",
+            "shortname": "Servi",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "lib/servi.js",
+            "line": 25,
+            "description": "The main servi constructor",
+            "is_constructor": 1,
+            "params": [
+                {
+                    "name": "globally",
+                    "description": "scope servi methods and properties, default is false.",
+                    "type": "Boolean"
+                }
+            ],
+            "example": [
+                "\n\tvar servi = require('servi');\n   var app = new servi();"
+            ]
+        }
+    },
+    "classitems": [
+        {
+            "file": "lib/response.js",
+            "line": 65,
+            "description": "Set port number to run server on",
+            "itemtype": "method",
+            "name": "respond",
+            "params": [
+                {
+                    "name": "response",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "example": [
+                "\n\trequest.respond(\"Thanks\");\t"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/response.js",
+            "line": 111,
+            "description": "Set port number to run server on",
+            "itemtype": "method",
+            "name": "redirect",
+            "params": [
+                {
+                    "name": "response",
+                    "description": "",
+                    "type": "String"
+                }
+            ],
+            "example": [
+                "\n\trequest.redirect(\"/\");\t"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 57,
+            "description": "Set port number to run server on",
+            "itemtype": "method",
+            "name": "port",
+            "params": [
+                {
+                    "name": "port",
+                    "description": "number",
+                    "type": "Integer"
+                }
+            ],
+            "return": {
+                "description": "Returns port number",
+                "type": "Integer"
+            },
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tserviapp.port(8080);"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 85,
+            "description": "Starts the HTTP server",
+            "itemtype": "method",
+            "name": "start",
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tserviapp.start();"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 140,
+            "description": "Define function to execute based on requested path",
+            "itemtype": "method",
+            "name": "route",
+            "params": [
+                {
+                    "name": "path",
+                    "description": "",
+                    "type": "String"
+                },
+                {
+                    "name": "callback",
+                    "description": "function",
+                    "type": "Function"
+                }
+            ],
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tserviapp.route('/',myRequestHandler);\n\tfunction myRequestHandler(request) {\n\t\trequest.respond(\"hello\");\n\t}\n\tserviapp.start();"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 230,
+            "description": "Define a path to directory of static files to serve",
+            "itemtype": "method",
+            "name": "serveFiles",
+            "params": [
+                {
+                    "name": "path",
+                    "description": "to directory of files",
+                    "type": "String"
+                }
+            ],
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tserviapp.serveFiles('public_html');\n\tserviapp.start();"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 246,
+            "description": "Define a file to use as a database.  This will create a flat JSON file for datastorage",
+            "itemtype": "method",
+            "name": "useDatabase",
+            "params": [
+                {
+                    "name": "database",
+                    "description": "filename",
+                    "type": "String"
+                }
+            ],
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tvar database = serviapp.useDatabase('mydatabasefile');\n\tserviapp.start();"
+            ],
+            "class": "Servi"
+        },
+        {
+            "file": "lib/servi.js",
+            "line": 269,
+            "description": "Write a message to the log",
+            "itemtype": "method",
+            "name": "log",
+            "params": [
+                {
+                    "name": "message",
+                    "description": "to write",
+                    "type": "String"
+                }
+            ],
+            "example": [
+                "\n\tvar servi = require('servi');\n\tvar serviapp = new servi();\n\tserviapp.log(\"something to say\");"
+            ],
+            "class": "Servi"
+        }
+    ],
+    "warnings": []
+}

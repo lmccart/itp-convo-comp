@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title><%= title %></title>
+ </head>
+
+ <body>
+  <h1><%= title %></h1>
+
+  <p><%= intro %></p>
+
+  <% for (var i = 0; i < colors.length; i++) { %>
+    <p>Cats are <%= colors[i] %>.</p>
+  <% } %>
+
+  <p>the end of the page.</p>
+ </body>
+</html>

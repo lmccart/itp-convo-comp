@@ -64,14 +64,14 @@ This class will be participatory, you are expected to participate in discussions
 * Social media APIs
   * [Twitter breakup prediction](http://motherboard.vice.com/read/what-our-breakups-look-like-on-twitter) 
 * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
+* Tutorials
 * Tools
   * [LIWC](http://liwc.net) available for [javascript and python](https://github.com/chbrown/lexicons)
   * [Sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis)
-  * [natural](https://github.com/NaturalNode/natural) includes tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity.
-  * [everything but the chat](https://github.com/lmccart/everything-but-the-chat) combines a little bit of everything above.
+
+
   * [corpora](https://github.com/dariusk/corpora) is a collection of words and phrases by category.
 * Survey
-  * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
 
 ####Week 3 (2/11): Generation and automation
 * [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
@@ -95,19 +95,18 @@ This class will be participatory, you are expected to participate in discussions
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
 * Survey
-  * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)
   * [Darius Kazemi](https://twitter.com/dariusbots)
   * [everyword](https://twitter.com/everyword)
   * [On Kawara tribute](https://twitter.com/On_Kawara)
   * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
   * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
+  * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
 * Public text displays
 * Survey
-  * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
-  * [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/)
+
 
 ##Part 2: Physical augmentation and alternatives
 
@@ -118,8 +117,6 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [Speaking Exchange](http://ablersite.org/2014/06/05/speaking-exchange/)
   * [Talk Therapy](http://www.chris-reilly.org/art/talk-therapy/), Chris Reilly
-  * [A Hole in Space](http://alltheartever.tumblr.com/post/103284895404/a-hole-in-space-kit-galloway-and-sherrie), Kit Galloway and Sherrie Rabinowitz 1980
-  * [The Radio as an Apparatus of Communication](http://alltheartever.tumblr.com/post/108065923059/der-lindberghflug-the-lindbergh-flight-by), Bertolt Brecht 1929
 
 ####Week 7 (3/11): Physical analysis
 * Body language
@@ -136,10 +133,9 @@ This class will be participatory, you are expected to participate in discussions
 
 ####Week 8 (3/25): Physical augmentation and alternatives
 * Devices / objects
-  * [Let's Chat!](http://fathom.info/latest/8400), Lee Cusack 
   * [How are We Going to Talk After This?](http://www.chris-reilly.org/art/how-are-we-going-to-talk-after-this/), Chris Reilly
   * [Linguaphone of Tremulous Communion](http://www.chris-reilly.org/art/linguaphone-of-tremulous-communion/), Chris Reilly
-  * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
+  * [Lucy + Jorge Orta](http://www.studio-orta.com/en/artworks/serie/33/Body-Architecture)
 * Physical feedback
 * Sign language
   * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
@@ -155,24 +151,19 @@ This class will be participatory, you are expected to participate in discussions
 ####Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
-* Survey
-  * [Somebody App](http://somebodyapp.com/), Miranda July
-  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
-  * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti 2001
-  * [Inbox Full](https://www.youtube.com/watch?v=XdfIXkwvU1Y), Molly Soda
+* http://therealannhirsch.com/playground.html
+* http://hyperallergic.com/94735/how-writing-is-like-performance/
 
 ####Week 10 (4/8): Public conversation
-* Online social dynamics
-  * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
+
 * Anonymity
   * [Why Facebook and Google's Concept of Real Names is Revolutionary](http://www.theatlantic.com/technology/archive/2011/08/why-facebook-and-googles-concept-of-real-names-is-revolutionary/243171/), The Atlantic
   * [“Real Names” Policies Are an Abuse of Power](http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html), danah boyd
   * [The Facebook Bully](https://medium.com/message/the-facebook-bully-d7a16f6ede38), Joanne McNeil
-
+* Public Text Displays
+  * http://projects.jennyholzer.com/ 
+  * http://www.theguardian.com/culture/2004/oct/12/1
 ####Week 11 (4/15): Protest
-* Survey
-  * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
-  * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
-  * [Notes from OWS](https://nplusonemag.com/online-only/occupy/notes-from-an-occupation/)
+
 
 ####Week 12 (4/22): Final project presentations

@@ -56,33 +56,45 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ###Week 2 (2/4): Linguistic analysis
-* **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
-* [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff - [clip](https://www.youtube.com/watch?v=vm0R1du1GqA&list=PL7W7QjZ8OBa9Oa5nFHKiGUSJY52rdmoj3&index=2)
-* Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
-* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
-* Sentiment analysis
-* LIWC / LSM
-* Social media APIs
-* [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
-* Conversation / language viz
+
+* Tools
+  * [AlchemyAPI](http://www.alchemyapi.com/products/demo/alchemylanguage/) - [developer guide](http://www.alchemyapi.com/developers/getting-started-guide/)
+  * [Text-Processing](http://text-processing.com/) - [API on Mashape](https://www.mashape.com/japerk/text-processing/Pricing)
+  * [Mashape](https://www.mashape.com/explore?query=language&page=1) -  searchable database of APIs
+  * [natural node module](https://github.com/NaturalNode/natural) includes tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity.
+  * [RiTa](http://rednoise.org/rita/) - natural language and generative literature toolkit
+  * [Chrome speech to text API](http://shapeshed.com/html5-speech-recognition-api/) - [demo](http://www.google.com/intl/en/chrome/demos/speech.html)  
+  * [Everything-but-the-Chat](https://github.com/lmccart/everything-but-the-chat) combines LIWC + WebRTC + websockets + facetracking
+* References
+  * [JS Text Analysis tutorial](http://shiffman.net/teaching/a2z/analysis/), Dan Shiffman - text concordance, TF-IDF, Bayesian filtering
+  * [Regex tutorial](http://shiffman.net/teaching/a2z/regex/), Dan Shiffman 
+  * [The Secret Life of Pronouns](http://secretlifeofpronouns.com/) 
+  * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff - [clip](https://www.youtube.com/watch?v=vm0R1du1GqA&list=PL7W7QjZ8OBa9Oa5nFHKiGUSJY52rdmoj3&index=2)
+  * Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
+  * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
 * Survey
+  * [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
   * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/), Sosolimited
   * [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
   * [Moveable Type](http://o-c-r.org/portfolio/moveable-type/), The Office for Creative Research
   * [Shuffle](http://o-c-r.org/portfolio/shuffle/), The Office for Creative Research
   * [Shakespeare Machine](http://o-c-r.org/portfolio/shakespeare-machine/), The Office for Creative Research
   * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
+  * [MIssed Connections](http://lukedubois.com/), R. Luke Dubois
   * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
   * [Samaritan's Radar](https://www.samaritansradar.org/)
+  * [Feltron Annual Report](http://feltron.com/FAR13.html), Nicholas Felton - [NYTimes article](http://bits.blogs.nytimes.com/2014/08/19/a-life-in-data-nicholas-feltons-self-surveillance)
+  * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
 
 ###Week 3 (2/11): Scripting and automation
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
 * Markov chains
+* [RiTa](http://rednoise.org/rita/)
 * Bots
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
-  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
+  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen  
 * Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
   * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
@@ -90,6 +102,7 @@ This class will be participatory, you are expected to participate in discussions
  
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
+* **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
 * **Review Project 1**
 
 
