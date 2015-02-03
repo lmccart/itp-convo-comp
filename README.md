@@ -66,7 +66,14 @@ This class will be participatory, you are expected to participate in discussions
 * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
 * Conversation / language viz
 * Survey
-  * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/) and [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
+  * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/), Sosolimited
+  * [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
+  * [Moveable Type](http://o-c-r.org/portfolio/moveable-type/), The Office for Creative Research
+  * [Shuffle](http://o-c-r.org/portfolio/shuffle/), The Office for Creative Research
+  * [Shakespeare Machine](http://o-c-r.org/portfolio/shakespeare-machine/), The Office for Creative Research
+  * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
+  * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
+  * [Samaritan's Radar](https://www.samaritansradar.org/)
 
 ###Week 3 (2/11): Scripting and automation
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
