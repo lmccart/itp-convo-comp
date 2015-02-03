@@ -8,7 +8,7 @@ Conversation and Computation
 * [Office hours signup](http://bit.ly/1hECzFK), Room 455
 * [Resident office hours signup](https://itp.nyu.edu/inwiki/)
 * [Google group](https://groups.google.com/forum/#!forum/convo-comp)
-* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)* 
+* [Assignments page](https://github.com/lmccart/itp-convo-comp/wiki/Assignments)
 * [Conversation tumblr log](http://convocomp.tumblr.com/)
 
 ![](http://payload.cargocollective.com/1/2/88505/1701748/talking_machine.jpg)
@@ -78,6 +78,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
 * Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
+  * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
 
  
 ###Week 4 (2/18): Generation and bots
@@ -104,6 +105,7 @@ This class will be participatory, you are expected to participate in discussions
 * Expression detection
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
+  * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
 
 ###Week 7 (3/11): Physical augmentation 
 * Devices / objects
