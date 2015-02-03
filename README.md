@@ -48,14 +48,14 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 1: Language analysis and automation
 
-####Week [1](https://www.youtube.com/watch?v=jB4xlYKAVCQ) (1/28): Introduction
+###Week [1](https://www.youtube.com/watch?v=jB4xlYKAVCQ) (1/28): Introduction
 * Intro and syllabus
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
 
-####Week 2 (2/4): Linguistic analysis
+###Week 2 (2/4): Linguistic analysis
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
 * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff - [clip](https://www.youtube.com/watch?v=vm0R1du1GqA&list=PL7W7QjZ8OBa9Oa5nFHKiGUSJY52rdmoj3&index=2)
 * Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
@@ -68,7 +68,7 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/) and [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
 
-####Week 3 (2/11): Scripting and automation
+###Week 3 (2/11): Scripting and automation
 * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
 * Text messages
 * Markov chains
@@ -80,7 +80,7 @@ This class will be participatory, you are expected to participate in discussions
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
 
  
-####Week 4 (2/18): Generation and bots
+###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review Project 1**
 
@@ -88,7 +88,7 @@ This class will be participatory, you are expected to participate in discussions
 ##Part 2: Physical augmentation and alternatives
 
 
-####Week 5 (2/25): Augmentation apps
+###Week 5 (2/25): Augmentation apps
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
@@ -98,14 +98,14 @@ This class will be participatory, you are expected to participate in discussions
   * [No Fun](http://0100101110101101.org/no-fun/), Eva and Franco Mattes
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
-####Week 6 (3/4): Physical analysis
+###Week 6 (3/4): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
 
-####Week 7 (3/11): Physical augmentation 
+###Week 7 (3/11): Physical augmentation 
 * Devices / objects
 * Physical feedback
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
@@ -123,7 +123,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 3: Public and performance
 
-####Week 9 (4/1): Performing conversation
+###Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
 * Survey
@@ -133,7 +133,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Inbox Full](https://www.youtube.com/watch?v=XdfIXkwvU1Y), Molly Soda
 * __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422) (DUE 4/22)__
 
-####Week 10 (4/8): Public conversation
+###Week 10 (4/8): Public conversation
 * Online social dynamics
   * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
   * [This American Life: If You Don't Have Anything Nice to Say, SAY IT IN ALL CAPS](http://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) and [Feminist Frequency: One Week of Harassment on Twitter](http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter)
@@ -143,13 +143,13 @@ This class will be participatory, you are expected to participate in discussions
   * [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/) 
   * [Vote Auction](http://www.vote-auction.net), Ubermorgen
 
-####Week 11 (4/15): Protest
+###Week 11 (4/15): Protest
 * Survey
   * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
   * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
   * [Notes from OWS](https://nplusonemag.com/online-only/occupy/notes-from-an-occupation/)
   * [Occu-bot and Management-bot](http://taeyoonchoi.com/2011/12/occu-bot-and-financier-bot/), Taeyoon Choi
 
-####Week 12 (4/22): Final project presentations
+###Week 12 (4/22): Final project presentations
 * **Review Project 3**
 * Wrap-up
