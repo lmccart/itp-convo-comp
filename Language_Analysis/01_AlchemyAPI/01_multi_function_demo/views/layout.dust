@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>{+title}Node.js Example | AlchemyAPI{/title}</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <link rel='icon' type='image/png' href='https://s3.amazonaws.com/alchemyapi/img/favicon.png' />
+                <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" media="screen">
+                {+head_stylesheets/}
+                {+head_javascripts/}
+        </head>
+        <body>
+
+
+                {+content/}
+
+                {+footer/}              
+                
+                <script src="http://code.jquery.com/jquery.min.js"></script>
+                <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+                {+footer_javascripts/}
+        </body>
+</html>
