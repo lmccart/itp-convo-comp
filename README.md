@@ -58,6 +58,7 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 2 (2/4): Linguistic analysis
 
 * Tools
+  * [Local server tutorial](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
   * [Language analysis code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Language_Analysis) 
   * [Using APIs code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Using_APIs)
   * [AlchemyAPI](http://www.alchemyapi.com/products/demo/alchemylanguage/) - [developer guide](http://www.alchemyapi.com/developers/getting-started-guide/)
