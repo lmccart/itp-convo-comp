@@ -134,6 +134,7 @@ This class will be participatory, you are expected to participate in discussions
 * Devices / objects
 * Physical feedback
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
+* [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
 * Survey
   * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
   * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara
