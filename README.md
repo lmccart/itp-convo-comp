@@ -90,6 +90,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
 
 ###Week 3 (2/11): Scripting and automation
+* [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
 * Bots
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
@@ -98,6 +99,7 @@ This class will be participatory, you are expected to participate in discussions
 * Tools 
   * [IFTTT](https://ifttt.com/) 
   * [text message via email](http://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
+  * [Postcard API](https://lob.com/blog/how-to-send-postcards-as-effortlessly-as-email)
   * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)  
   * Markov Chains
   * Wordnik API
@@ -109,10 +111,21 @@ This class will be participatory, you are expected to participate in discussions
     * [A lot of bots](http://meta-guide.com/software-meta-guide/100-best-github-chatbot/)
     * [socket.io](http://socket.io/) - create your own chat application
 * Survey
-  * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
   * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
-
- 
+  * Love automation
+    * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/))
+    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
+    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
+    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
+    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
+    * [Romantimatic](http://romantimatic.com/)
+  * Bots
+    * [Darius Kazemi](https://twitter.com/dariusbots)
+    * [everyword](https://twitter.com/everyword)
+    * [On Kawara tribute](https://twitter.com/On_Kawara)
+    * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
+    * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
+    * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
