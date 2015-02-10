@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <title>chat bot</title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body { font: 20px Helvetica, Arial; }
+      input {font-size: 20px; width: 100%;}
+      #messages { list-style-type: none; margin: 0; padding: 0; }
+      #messages li { padding: 5px 10px; }
+      #messages li:nth-child(odd) { background: #eee; }
+    </style>
+    <script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script>
+      var socket = io();
+      $(window).keydown(function (event) {
+        // When the client hits ENTER on their keyboard
+        if (event.which === 13) {
+          var msg = $('#m').val();
+          socket.emit('user message', msg);
+          $('#messages').append($('<li>'+msg+'</li>'));
+          $('#m').val('');
+        }
+      });
+      socket.on('bot message', function(msg){
+        console.log(msg);
+        $('#messages').append($('<li>').text(msg));
+      });
+
+    </script>
+  </head>
+  <body>
+    <ul id='messages'></ul>
+    <input id='m' autocomplete='off' />
+  </body>
+</html>
