@@ -90,14 +90,24 @@ This class will be participatory, you are expected to participate in discussions
   * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
 
 ###Week 3 (2/11): Scripting and automation
-* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
-* Text messages
-* Markov chains
-* [RiTa](http://rednoise.org/rita/)
 * Bots
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
-  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen  
+  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen 
+  * [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
+* Tools 
+  * [IFTTT](https://ifttt.com/) 
+  * [text message via email](http://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
+  * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)  
+  * Markov Chains
+  * Wordnik API
+  * Twitter Bots
+    * [node-twit](https://github.com/ttezel/twit) - Twitter module for nodejs
+    * [node-twitterbot](https://www.npmjs.com/package/node-twitterbot) - Twitter bot module for nodejs (uses twit)
+  * Chat Bots
+    * [Hubot](https://hubot.github.com/) - a many featured, extensible command line bot
+    * [A lot of bots](http://meta-guide.com/software-meta-guide/100-best-github-chatbot/)
+    * [socket.io](http://socket.io/) - create your own chat application
 * Survey
   * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/)) 
   * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
