@@ -103,7 +103,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen 
   * [Bots Should Punch Up](http://www.crummy.com/2013/11/27/0)
   * [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
-  * [MegaHAL](http://megahal.alioth.debian.org/)
+  * [After Twitter bot makes death threat, its owner gets questioned by police](http://fusion.net/story/47353/twitter-bot-death-threat/)
 * Corpus resources
   * [Corpus of Contemporary American English](http://corpus.byu.edu/coca/)
   * [Corpora](https://github.com/dariusk/corpora), Darius Kazemi -  collection of small corpuses of interesting data for the creation of bots and similar stuff
@@ -131,6 +131,7 @@ This class will be participatory, you are expected to participate in discussions
   * Generating text
     * [n-grams](http://www.rednoise.org/pdal/index.php?n=Main.N-Grams), Daniel Howe - [Google ngram viewer](https://books.google.com/ngrams)
     * [Markov Chains](http://shiffman.net/teaching/a2z/generate/), Dan Shiffman
+    * [MegaHAL](http://megahal.alioth.debian.org/)
     * [Grammars](http://www.rednoise.org/pdal/index.php?n=Main.Grammars), Daniel Howe - [Chomsky grammar hierarchy](http://en.wikipedia.org/wiki/Chomsky_hierarchy)
     * [Wordnik API](http://developer.wordnik.com/) - definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, etc
     * [RiTA](http://www.rednoise.org/rita/) - text-generation via Context-Free Grammars and Markov-chains, taggers for Syllables, Phonemes, Stress, Part-of-Speech, tokenization, verb conjugation, pluralization, and stemming
