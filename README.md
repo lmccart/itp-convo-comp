@@ -157,6 +157,7 @@ This class will be participatory, you are expected to participate in discussions
     * [Fluxus workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
   * [Karaoke Answering Machine](http://archiv.videonale.org/en/video-library/uvw/welty/), Rachel Perry Welty
   * [Game of Phones](http://www.davidlubl.in/game-of-phones/), David Lublin
+  
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
