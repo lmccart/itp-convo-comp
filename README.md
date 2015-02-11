@@ -76,7 +76,6 @@ This class will be participatory, you are expected to participate in discussions
   * Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
   * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
 * Survey
-  * [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
   * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/), Sosolimited
   * [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
   * [Moveable Type](http://o-c-r.org/portfolio/moveable-type/), The Office for Creative Research
@@ -88,19 +87,39 @@ This class will be participatory, you are expected to participate in discussions
   * [Samaritan's Radar](https://www.samaritansradar.org/)
   * [Feltron Annual Report](http://feltron.com/FAR13.html), Nicholas Felton - [NYTimes article](http://bits.blogs.nytimes.com/2014/08/19/a-life-in-data-nicholas-feltons-self-surveillance)
   * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
+  * [What a Hundred Million Calls to 311 Reveal About New York](http://www.wired.com/2010/11/ff_311_new_york/all/1), Pitch Interactive
 
 ###Week 3 (2/11): Scripting and automation
+* [Speaking Machine](http://en.wikipedia.org/wiki/Wolfgang_von_Kempelen's_Speaking_Machine), Wolfgang von Kempelen 1769 - [illustration](http://www2.ling.su.se/staff/hartmut/bilder/kempln24.gif), [video](https://www.youtube.com/watch?v=zYRVqrfY3tQ), creator of [The Turk](http://en.wikipedia.org/wiki/The_Turk)
+* [Speaking Machine recontruction](http://www2.ling.su.se/staff/hartmut/bilder/sfaber.gif), Sir Charles Wheatstone 1837
+* [Voder](http://en.wikipedia.org/wiki/Voder), Homer Dudley 1939 - [video](https://www.youtube.com/watch?v=0rAyrmm7vv0)
 * [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
+* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
+* [Almost Human: The Surreal, Cyborg Future of Telemarketing](http://www.theatlantic.com/technology/archive/2013/12/almost-human-the-surreal-cyborg-future-of-telemarketing/282537/) - ["I am a real person!"](http://io9.com/freakishly-realistic-telemarketing-robots-are-denying-t-1481050295)
 * Bots
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen 
   * [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
+  * [MegaHAL](http://megahal.alioth.debian.org/)
 * Tools 
   * [IFTTT](https://ifttt.com/) 
   * [text message via email](http://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
   * [Postcard API](https://lob.com/blog/how-to-send-postcards-as-effortlessly-as-email)
+  * [Yo](http://dev.justyo.co/)
+  * Tinder
+	* [Node API](https://www.npmjs.org/package/tinderbot)
+	* [Python API](https://github.com/Coriou/py-tinder)
+  * [Snapchat](http://gibsonsec.org/snapchat/fulldisclosure/)
+    * [Unofficial Python API](https://github.com/niothiel/snapchat-python)
+  * [Twilio](https://www.twilio.com/docs/api) lets you work with phones
   * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)  
+  * [Mechanical Turk](https://www.mturk.com/mturk/welcome)
+    * [Kitchen Table Coders workshop resouces](http://kitchentablecoders.com/class/2013/08/10/mturk-workshop/)
+    * https://github.com/jefftimesten/mturk - nodejs wrapper for MTurk
+    * https://github.com/mdp/rturk - ruby wrapper for MTurk
+    * https://github.com/twitter/clockworkraven - webapp for MTurk interface, created by Twitter
+    * http://aws.amazon.com/code/Amazon-Mechanical-Turk
   * Markov Chains
   * Wordnik API
   * Twitter Bots
@@ -112,6 +131,12 @@ This class will be participatory, you are expected to participate in discussions
     * [socket.io](http://socket.io/) - create your own chat application
 * Survey
   * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
+  * Conversation prompting
+    * [White Christmas](https://www.youtube.com/watch?v=0okH6MsG3eU) - Black Mirror Christmas Special
+    * [Social Turkers](http://socialturkers.com)
+    * [Auto-Theater](https://www.youtube.com/watch?v=TzKed84hFlM&feature=youtu.be), Daniel Spoerri - [Guggenheim clip](http://instagram.com/p/xc3P79TLjC/?modal=true)
+    * [Conversacube](http://lauren-mccarthy.com/conversacube/)
+    * [Devices for Mindless Communication](http://www.di10.rca.ac.uk/gerardrallo/), Gerard Rallo
   * Love automation
     * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/))
     * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
@@ -119,6 +144,8 @@ This class will be participatory, you are expected to participate in discussions
     * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
     * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
     * [Romantimatic](http://romantimatic.com/)
+    * [tinderbox](https://github.com/crockpotveggies/tinderbox)
+    * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti
   * Bots
     * [Darius Kazemi](https://twitter.com/dariusbots)
     * [everyword](https://twitter.com/everyword)
@@ -126,6 +153,10 @@ This class will be participatory, you are expected to participate in discussions
     * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
     * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
     * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
+  * Instructions
+    * [Fluxus workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
+  * [Karaoke Answering Machine](http://archiv.videonale.org/en/video-library/uvw/welty/), Rachel Perry Welty
+  * [Game of Phones](http://www.davidlubl.in/game-of-phones/), David Lublin
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
