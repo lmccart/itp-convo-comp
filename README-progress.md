@@ -74,33 +74,12 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
 
 ####Week 3 (2/11): Generation and automation
-* [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
-* [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)
-* Text messages
-* [Postcard API](https://lob.com/blog/how-to-send-postcards-as-effortlessly-as-email)
-* Dataclysm??
-* Survey
-  * Love automation
-    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
-    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
-    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
-    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
-    * [Romantimatic](http://romantimatic.com/)
+
+
  
 ####Week 4 (2/18): Generation and automation (cont)
 * **[Darius Kazemi](http://tinysurversions.com) guest lecture**
-* Markov chains
-* Bots
-  * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
-  * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
-  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen
-* Survey
-  * [Darius Kazemi](https://twitter.com/dariusbots)
-  * [everyword](https://twitter.com/everyword)
-  * [On Kawara tribute](https://twitter.com/On_Kawara)
-  * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
-  * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
-  * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
+
 
 ####Week 5 (2/25): Visualization and display
 * Conversation / language viz
@@ -130,7 +109,10 @@ This class will be participatory, you are expected to participate in discussions
   * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
   * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
 (https://github.com/atduskgreg/Making-Things-See-Examples) which focuses on Kinect.
-
+* Survel
+  * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
+* http://www.inmilee.net/untitled.html
+* 
 ####Week 8 (3/25): Physical augmentation and alternatives
 * Devices / objects
   * [How are We Going to Talk After This?](http://www.chris-reilly.org/art/how-are-we-going-to-talk-after-this/), Chris Reilly
@@ -153,7 +135,10 @@ This class will be participatory, you are expected to participate in discussions
 * Scripts, cues, prompts, improv
 * http://therealannhirsch.com/playground.html
 * http://hyperallergic.com/94735/how-writing-is-like-performance/
-
+* http://iamsellingsocialinteraction.com/
+* http://www.stefanieposavec.co.uk/data/#/facebook-art-residency-relationship-dance-steps/
+    * [Learning to Love You More](http://www.learningtoloveyoumore.com/)
+    * http://www.mandiberg.com/the-essential-guide-to-performing-michael-mandiberg/
 ####Week 10 (4/8): Public conversation
 
 * Anonymity
@@ -163,6 +148,7 @@ This class will be participatory, you are expected to participate in discussions
 * Public Text Displays
   * http://projects.jennyholzer.com/ 
   * http://www.theguardian.com/culture/2004/oct/12/1
+* http://act.mit.edu/people/lecturers/matthew-mazzotta/
 ####Week 11 (4/15): Protest
 
 

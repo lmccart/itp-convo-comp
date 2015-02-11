@@ -88,6 +88,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Feltron Annual Report](http://feltron.com/FAR13.html), Nicholas Felton - [NYTimes article](http://bits.blogs.nytimes.com/2014/08/19/a-life-in-data-nicholas-feltons-self-surveillance)
   * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
   * [What a Hundred Million Calls to 311 Reveal About New York](http://www.wired.com/2010/11/ff_311_new_york/all/1), Pitch Interactive
+  * [Relationship Dance Steps](http://www.stefanieposavec.co.uk/data/#/facebook-art-residency-relationship-dance-steps/), Stefanie Posavec
 
 ###Week 3 (2/11): Scripting and automation
 * [Speaking Machine](http://en.wikipedia.org/wiki/Wolfgang_von_Kempelen's_Speaking_Machine), Wolfgang von Kempelen 1769 - [illustration](http://www2.ling.su.se/staff/hartmut/bilder/kempln24.gif), [video](https://www.youtube.com/watch?v=zYRVqrfY3tQ), creator of [The Turk](http://en.wikipedia.org/wiki/The_Turk)
@@ -100,8 +101,15 @@ This class will be participatory, you are expected to participate in discussions
   * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
   * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
   * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen 
+  * [Bots Should Punch Up](http://www.crummy.com/2013/11/27/0)
   * [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
   * [MegaHAL](http://megahal.alioth.debian.org/)
+* Corpus resources
+  * [Corpus of Contemporary American English](http://corpus.byu.edu/coca/)
+  * [Corpora](https://github.com/dariusk/corpora), Darius Kazemi -  collection of small corpuses of interesting data for the creation of bots and similar stuff
+  * [Wordnet](http://wordnet.princeton.edu/wordnet/) - large lexical database of English - [WNdb npm module](https://github.com/moos/WNdb), [natural node module](https://github.com/NaturalNode/natural)
+  * [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - free ebooks 
+  * [List of various corpus resources](http://courses.washington.edu/englhtml/engl560/corplingresources.htm)
 * Tools 
   * [IFTTT](https://ifttt.com/) 
   * [text message via email](http://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
@@ -120,8 +128,12 @@ This class will be participatory, you are expected to participate in discussions
     * https://github.com/mdp/rturk - ruby wrapper for MTurk
     * https://github.com/twitter/clockworkraven - webapp for MTurk interface, created by Twitter
     * http://aws.amazon.com/code/Amazon-Mechanical-Turk
-  * Markov Chains
-  * Wordnik API
+  * Generating text
+    * [n-grams](http://www.rednoise.org/pdal/index.php?n=Main.N-Grams), Daniel Howe - [Google ngram viewer](https://books.google.com/ngrams)
+    * [Markov Chains](http://shiffman.net/teaching/a2z/generate/), Dan Shiffman
+    * [Grammars](http://www.rednoise.org/pdal/index.php?n=Main.Grammars), Daniel Howe - [Chomsky grammar hierarchy](http://en.wikipedia.org/wiki/Chomsky_hierarchy)
+    * [Wordnik API](http://developer.wordnik.com/) - definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, etc
+    * [RiTA](http://www.rednoise.org/rita/) - text-generation via Context-Free Grammars and Markov-chains, taggers for Syllables, Phonemes, Stress, Part-of-Speech, tokenization, verb conjugation, pluralization, and stemming
   * Twitter Bots
     * [node-twit](https://github.com/ttezel/twit) - Twitter module for nodejs
     * [node-twitterbot](https://www.npmjs.com/package/node-twitterbot) - Twitter bot module for nodejs (uses twit)
@@ -153,6 +165,7 @@ This class will be participatory, you are expected to participate in discussions
     * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
     * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
     * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
+    * [Drunk Eliza](http://danieltemkin.com/DrunkEliza/), Daniel Tempkin
   * Instructions
     * [Fluxus workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
   * [Karaoke Answering Machine](http://archiv.videonale.org/en/video-library/uvw/welty/), Rachel Perry Welty
