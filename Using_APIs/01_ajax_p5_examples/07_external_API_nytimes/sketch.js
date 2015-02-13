@@ -5,7 +5,7 @@ function setup() {
   noLoop();
   noStroke();
   fill(0);
-  var url = "http://api.nytimes.com/svc/search/v2/articlesearch.jsonp?callback=svc_search_v2_articlesearch&q=obama&api-key=sample-key";
+  var url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=obama&api-key=sample-key";
   loadJSON(url, drawDocs);
 }
 
