@@ -173,6 +173,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Game of Phones](http://www.davidlubl.in/game-of-phones/), David Lublin
   * [The Adventures of Teen Bloggers](http://www.teenbloggers.net/), Sam Brenner
   * [eterni.me](http://eterni.me/) collects almost everything that you create during your lifetime, and processes this huge amount of information using complex Artificial Intelligence algorithms. Then it generates a virtual YOU, an avatar that emulates your personality and can interact with, and offer information and advice to your family and friends, even after you pass away.
+  * [emotional-labor.email](https://medium.com/message/canned-email-eb6f4ba843d9), Joanne McNeil
   
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
