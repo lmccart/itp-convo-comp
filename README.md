@@ -201,6 +201,7 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
   * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
+  * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
 
 ###Week 7 (3/11): Physical augmentation 
 * Devices / objects
