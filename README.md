@@ -171,6 +171,9 @@ This class will be participatory, you are expected to participate in discussions
     * [Fluxus workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
   * [Karaoke Answering Machine](http://archiv.videonale.org/en/video-library/uvw/welty/), Rachel Perry Welty
   * [Game of Phones](http://www.davidlubl.in/game-of-phones/), David Lublin
+  * [The Adventures of Teen Bloggers](http://www.teenbloggers.net/), Sam Brenner
+  * [eterni.me](http://eterni.me/) collects almost everything that you create during your lifetime, and processes this huge amount of information using complex Artificial Intelligence algorithms. Then it generates a virtual YOU, an avatar that emulates your personality and can interact with, and offer information and advice to your family and friends, even after you pass away.
+  * [emotional-labor.email](https://medium.com/message/canned-email-eb6f4ba843d9), Joanne McNeil
   
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
@@ -198,6 +201,7 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
   * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
+  * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
 
 ###Week 7 (3/11): Physical augmentation 
 * Devices / objects
