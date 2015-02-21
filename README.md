@@ -183,8 +183,27 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 2: Physical augmentation and alternatives
 
+###Week 5 (2/25): Physical analysis
+* Body language
+* Face tracking
+* Expression detection
+* Technical:
+  * [Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/) by Golan Levin 
+  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop
+  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies
+  * [Computer Vision in Interactive Art](https://docs.google.com/document/d/1Yky5TpKrxNDQzD7sXQ8gGpYFTsQhac1PrjYLQ3X_zJQ/edit?usp=sharing), Kyle McDonald
+  * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
+  * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
+(https://github.com/atduskgreg/Making-Things-See-Examples) which focuses on Kinect.
+* Survey
+  * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
+  * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
+  * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
+  * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
+* http://www.inmilee.net/untitled.html
+* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
-###Week 5 (2/25): Augmentation apps
+###Week 6 (3/4): Augmentation apps
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
@@ -192,16 +211,7 @@ This class will be participatory, you are expected to participate in discussions
   * [The Radio as an Apparatus of Communication](http://alltheartever.tumblr.com/post/108065923059/der-lindberghflug-the-lindbergh-flight-by), Bertolt Brecht 1929
   * [A Hole in Space](http://alltheartever.tumblr.com/post/103284895404/a-hole-in-space-kit-galloway-and-sherrie), Kit Galloway and Sherrie Rabinowitz 1980 - [more](http://www.medienkunstnetz.de/works/hole-in-space/)
   * [No Fun](http://0100101110101101.org/no-fun/), Eva and Franco Mattes
-* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
-###Week 6 (3/4): Physical analysis
-* Body language
-* Face tracking
-* Expression detection
-* Survey
-  * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
-  * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
-  * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
 
 ###Week 7 (3/11): Physical augmentation 
 * Devices / objects
@@ -210,7 +220,7 @@ This class will be participatory, you are expected to participate in discussions
 * [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
 * Survey
   * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
-  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara
+  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara  
 
 ####Week 8 (3/25): Alternatives
 * **Review Project 2**
