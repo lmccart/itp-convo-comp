@@ -183,7 +183,17 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 2: Physical augmentation and alternatives
 
-###Week 5 (2/25): Physical analysis
+
+###Week 5 (2/25): Physical augmentation 
+* Devices / objects
+* Physical feedback
+* [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
+* Survey
+  * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
+  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara  
+
+
+###Week 6 (3/4): Physical analysis
 * Body language
 * Face tracking
 * Expression detection
@@ -200,10 +210,12 @@ This class will be participatory, you are expected to participate in discussions
   * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
   * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
   * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
-* http://www.inmilee.net/untitled.html
+  * [Cheese](http://www.christian-moeller.com/display.php?project_id=36), Christian Moeller
+  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee
+  * [Standards and Double Standards](https://vimeo.com/33931469), Rafael Lozano-Hemmer
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
-###Week 6 (3/4): Augmentation apps
+###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
@@ -213,17 +225,9 @@ This class will be participatory, you are expected to participate in discussions
   * [No Fun](http://0100101110101101.org/no-fun/), Eva and Franco Mattes
 
 
-###Week 7 (3/11): Physical augmentation 
-* Devices / objects
-* Physical feedback
-* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
-* [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
-* Survey
-  * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
-  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara  
-
-####Week 8 (3/25): Alternatives
+###Week 8 (3/25): Alternatives
 * **Review Project 2**
+* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
 * Sign language
 * Braille 
 * Emoji
