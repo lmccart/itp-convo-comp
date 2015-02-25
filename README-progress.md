@@ -1,22 +1,27 @@
 
 ##Part 2: Physical augmentation and alternatives
 
-####Week 6 (3/4): Augmentation apps
+####Week 5: Physical augmentation
+
+  
+
+####Week 6: Physical analysis
+* [Talk Therapy](http://www.chris-reilly.org/art/talk-therapy/), Chris Reilly
+
+####Week 7: Phyiscal x virtual
+
+  * [How are We Going to Talk After This?](http://www.chris-reilly.org/art/how-are-we-going-to-talk-after-this/), Chris Reilly
+    * http://ablersite.org/2012/10/17/matthias-gommels-delayed/
+    
+* Physical feedback
+
+
+####Week 8: Alternatives
 * Google Hangout apps
 * Browser extensions
 * Skype, Twilio, webRTC
 * Survey
   * [Speaking Exchange](http://ablersite.org/2014/06/05/speaking-exchange/)
-  * [Talk Therapy](http://www.chris-reilly.org/art/talk-therapy/), Chris Reilly
-
-####Week 7 (3/11): Physical analysis
-
-####Week 8 (3/25): Physical augmentation and alternatives
-* Devices / objects
-  * [How are We Going to Talk After This?](http://www.chris-reilly.org/art/how-are-we-going-to-talk-after-this/), Chris Reilly
-  * [Linguaphone of Tremulous Communion](http://www.chris-reilly.org/art/linguaphone-of-tremulous-communion/), Chris Reilly
-  * [Lucy + Jorge Orta](http://www.studio-orta.com/en/artworks/serie/33/Body-Architecture)
-* Physical feedback
 * Sign language
   * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
   * [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu), The Guardian
@@ -25,6 +30,7 @@
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
   * [MoMA Mail Art exhibit](http://www.moma.org  /interactives/exhibitions/2014/analognetwork/) 
   * [On Kawara](http://en.wikipedia.org/wiki/On_Kawara)
+  
 
 ##Part 3: Public and performance
 

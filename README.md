@@ -177,8 +177,7 @@ This class will be participatory, you are expected to participate in discussions
   
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
-* **John Rothenberg ([Sosolimited](http://sosolimited.com)) guest lecture**
-* **Review Project 1**
+* **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
 
 ##Part 2: Physical augmentation and alternatives
@@ -187,10 +186,30 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 5 (2/25): Physical augmentation 
 * Devices / objects
 * Physical feedback
+* [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd), Sara Hendren
 * [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
+* [Resource on Person-First Language](http://www.asha.org/publications/journals/submissions/person_first.htm* )
 * Survey
-  * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
-  * [I Got Up](http://moca.org/pc/images/artworks/800px/kawara.jpg), On Kawara  
+  * Devices / objects  
+    * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
+    * [Crowbot Jenny](http://sputniko.com/2011/08/crowbot-jenny-2011/), Sputniko!
+    * [Blendie](http://web.media.mit.edu/~monster/blendie/), Kelly Dobson
+    * [ScreamBody](http://web.media.mit.edu/~monster/screambody/), Kelly Dobson
+    * [Conversacube](http://lauren-mccarthy.com/conversacube), Lauren McCarthy
+    * [Unguarded Gestures](http://ablersite.org/2013/03/19/jennifer-crupis-unguarded-gestures/), Jennifer Crupi  
+    * [Robot Mask](https://www.flickr.com/photos/arselectronica/14850167242/in/set-72157645836103108), Kenji Suzuki, Dushyantha Jayatilake
+    * [Robot Eyes for Bitchy Resting Face](https://medium.com/message/robot-eyes-for-bitchy-resting-face-6de6b8ad786e) 
+    * [Evidence Dolls](http://www.dunneandraby.co.uk/content/projects/69/0), Dunne+Raby
+    * [Touchy](http://touchtouchy.com/), Eric Siu
+    * [Personal Robots Group](http://robotic.media.mit.edu/project-portfolio/), MIT Media Lab
+    * [Affective Computing Group](http://affect.media.mit.edu), MIT Media Lab    
+  * Connections
+    * [Social Sewing](http://mikevanis.com/social-sewing), Mike Vanis
+    * [Linguaphone of Tremulous Communion](http://www.chris-reilly.org/art/linguaphone-of-tremulous-communion/), Chris Reilly
+    * [I'm Taller Than Most People I Know](http://www.jacobtonski.com/tallerthanmost/), Jacob Tonski
+    * [Tentative Architectures](http://www.studio-orta.com/en/artworks/serie/33/Body-Architecture), Lucy + Jorge Orta
+    * [Social Body Lab](http://research.ocadu.ca/socialbody/home)
+* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
 
 ###Week 6 (3/4): Physical analysis
@@ -208,12 +227,13 @@ This class will be participatory, you are expected to participate in discussions
 * Survey
   * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
   * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
+  * [Eyewriter](http://www.eyewriter.org/)
   * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
   * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
   * [Cheese](http://www.christian-moeller.com/display.php?project_id=36), Christian Moeller
   * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee
   * [Standards and Double Standards](https://vimeo.com/33931469), Rafael Lozano-Hemmer
-* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
+  * [Face Cages](http://www.zachblas.info/), Zach Blas
 
 ###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
@@ -226,7 +246,7 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ###Week 8 (3/25): Alternatives
-* **Review Project 2**
+* **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325)**
 * Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
 * Sign language
 * Braille 
@@ -239,6 +259,7 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 9 (4/1): Performing conversation
 * Erving Goffman, Harold Garfinkel
 * Scripts, cues, prompts, improv
+* http://www.npr.org/programs/invisibilia/378577902/how-to-become-batman?showDate=2015-01-23
 * Survey
   * [Somebody App](http://somebodyapp.com/), Miranda July
   * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
