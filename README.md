@@ -218,8 +218,8 @@ This class will be participatory, you are expected to participate in discussions
 * Expression detection
 * Technical:
   * [Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/) by Golan Levin 
-  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop
-  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies
+  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop, Kyle McDonald
+  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies, Kyle McDonald
   * [Computer Vision in Interactive Art](https://docs.google.com/document/d/1Yky5TpKrxNDQzD7sXQ8gGpYFTsQhac1PrjYLQ3X_zJQ/edit?usp=sharing), Kyle McDonald
   * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
   * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
