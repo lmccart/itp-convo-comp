@@ -231,9 +231,10 @@ This class will be participatory, you are expected to participate in discussions
   * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
   * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
   * [Cheese](http://www.christian-moeller.com/display.php?project_id=36), Christian Moeller
-  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee
+  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee, Kyle McDonald
   * [Standards and Double Standards](https://vimeo.com/33931469), Rafael Lozano-Hemmer
   * [Face Cages](http://www.zachblas.info/), Zach Blas
+  * [Sharing Faces](), Kyle McDonald
 
 ###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
