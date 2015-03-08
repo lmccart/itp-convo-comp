@@ -273,6 +273,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
   * [This American Life: If You Don't Have Anything Nice to Say, SAY IT IN ALL CAPS](http://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) and [Feminist Frequency: One Week of Harassment on Twitter](http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter)
   * [How Salon tamed the trolls and saved its online comments](http://digiday.com/publishers/salon-tamed-trolls-saved-online-comments/)
+  * [Popular Yik Yak App Confers Anonymity and Delivers Abuse](http://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html?smprod=nytcore-ipad&smid=nytcore-ipad-share&_r=0)
 * Anonymity
 * Public text displays
 * Survey
