@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="jquery.facedetection.js"></script> 
+  <script src="p5.js"></script>
+  <script src="p5.dom.js"></script>
+  <script>
+  var vid;
+
+  function setup() {
+    vid = createVideo('assets/video.mp4');
+    vid.id('vid');
+    vid.position(0, 0);
+    vid.loop();
+
+    var c = createCanvas(800, 800);
+    c.position(0, 0);
+    noFill();
+    strokeWeight(2);
+  }
+
+  function draw() {
+    detect();
+  }
+
+  function detect() {
+    clear();
+    $('#vid').faceDetection({
+      interval: 1,
+      complete: function (faces) {
+        if (faces.length > 0) {
+          var x = faces[0].x * faces[0].scaleX;
+          var y = faces[0].y * faces[0].scaleY;
+          var w = faces[0].width  * faces[0].scaleX;
+          var h = faces[0].height  * faces[0].scaleY;
+          rect(x, y, w, h);
+        }
+      }
+    });
+  }
+
+  </script>
+  <style> vid {width: 800px;} </style>
+</head>
+<body>
+</body>
+</html>

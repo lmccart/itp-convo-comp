@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="jquery.facedetection.js"></script> 
+  <script src="p5.js"></script>
+  <script src="p5.dom.js"></script>
+  <script>
+  var rects = [];
+  var img;
+
+  function setup() {
+    img = createImg('assets/rect.jpg');
+    img.id('picture');
+    img.position(0, 0);
+
+    img.drop(gotFile);
+  }
+  
+  function gotFile(file) {
+    img.attribute('src', file.data);
+    for (var i=0; i<rects.length; i++) {
+      rects[i].remove();
+    }
+    detect();
+  }
+
+
+  function detect() {
+    $('#picture').faceDetection({
+      complete: function (faces) {
+        for (var i = 0; i < faces.length; i++) {
+          var d = createDiv('');
+          d.position(faces[i].x * faces[i].scaleX, faces[i].y * faces[i].scaleY);
+          d.size(faces[i].width  * faces[i].scaleX, faces[i].height * faces[i].scaleY);
+          d.style('background', 'black');
+          rects.push(d);
+        }
+      }
+    });
+  }
+
+  </script>
+  <style> img {width: 800px;} </style>
+</head>
+<body>
+</body>
+</html>

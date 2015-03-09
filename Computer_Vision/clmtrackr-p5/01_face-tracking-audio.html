@@ -1,0 +1,61 @@
+<!-- This example uses Audun Mathias Øygard's clmtracker along with p5.js, p5.dom.js, and p5.sound.js
+     https://github.com/auduno/clmtrackr
+     http://p5js.org/ -->
+<html>
+  <head>
+    <script src="clmtrackr.js"></script>
+    <script src="models/model_pca_20_svm.js"></script>
+    <script src="p5.js"></script>
+    <script src="p5.dom.js"></script>
+    <script src="p5.sound.js"></script>
+    <script>
+      var ctracker;
+      var mouthSound;
+
+      function preload() {
+        mouthSound = loadSound('scream.mp3');
+      }
+
+      function setup() {
+
+        // setup camera capture
+        var videoInput = createCapture(VIDEO);
+        videoInput.size(400, 300);
+        videoInput.position(0, 0);
+        
+        // setup canvas
+        var cnv = createCanvas(400, 300);
+        cnv.position(0, 0);
+
+        // setup tracker
+        ctracker = new clm.tracker();
+        ctracker.init(pModel);
+        ctracker.start(videoInput.elt);
+
+        mouthSound.loop();
+        mouthSound.setVolume(0);
+
+  
+      }
+
+      function draw() {
+        clear();
+
+        // get array of face marker positions [x, y] format
+        var positions = ctracker.getCurrentPosition();
+        if(positions.length > 0) {
+          var mouthH = positions[57][1] - positions[60][1];
+          var faceH = positions[7][1] - positions[33][1];
+          var mouthR = mouthH/faceH;
+
+          var v = constrain(map(mouthR, 0.05, 0.25, 0, 10), 0, 10);
+          mouthSound.setVolume(v);
+        }
+
+      }
+    </script>
+    <style> body { padding: 0; margin: 0} </style>
+  </head>
+  <body>
+  </body>
+</html>
