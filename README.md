@@ -218,8 +218,8 @@ This class will be participatory, you are expected to participate in discussions
 * Expression detection
 * Technical:
   * [Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/) by Golan Levin 
-  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop
-  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies
+  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop, Kyle McDonald
+  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies, Kyle McDonald
   * [Computer Vision in Interactive Art](https://docs.google.com/document/d/1Yky5TpKrxNDQzD7sXQ8gGpYFTsQhac1PrjYLQ3X_zJQ/edit?usp=sharing), Kyle McDonald
   * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
   * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
@@ -231,9 +231,10 @@ This class will be participatory, you are expected to participate in discussions
   * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
   * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
   * [Cheese](http://www.christian-moeller.com/display.php?project_id=36), Christian Moeller
-  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee
+  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee, Kyle McDonald
   * [Standards and Double Standards](https://vimeo.com/33931469), Rafael Lozano-Hemmer
   * [Face Cages](http://www.zachblas.info/), Zach Blas
+  * [Sharing Faces](), Kyle McDonald
 
 ###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
@@ -272,6 +273,7 @@ This class will be participatory, you are expected to participate in discussions
   * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
   * [This American Life: If You Don't Have Anything Nice to Say, SAY IT IN ALL CAPS](http://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) and [Feminist Frequency: One Week of Harassment on Twitter](http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter)
   * [How Salon tamed the trolls and saved its online comments](http://digiday.com/publishers/salon-tamed-trolls-saved-online-comments/)
+  * [Popular Yik Yak App Confers Anonymity and Delivers Abuse](http://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html?smprod=nytcore-ipad&smid=nytcore-ipad-share&_r=0)
 * Anonymity
 * Public text displays
 * Survey
