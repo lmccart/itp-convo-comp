@@ -202,7 +202,9 @@ This class will be participatory, you are expected to participate in discussions
     * [Evidence Dolls](http://www.dunneandraby.co.uk/content/projects/69/0), Dunne+Raby
     * [Touchy](http://touchtouchy.com/), Eric Siu
     * [Personal Robots Group](http://robotic.media.mit.edu/project-portfolio/), MIT Media Lab
-    * [Affective Computing Group](http://affect.media.mit.edu), MIT Media Lab    
+    * [Affective Computing Group](http://affect.media.mit.edu), MIT Media Lab  
+    * [The Objectuals](http://www.lilyandlamb.com/blog/hyungkoo-lee-the-objectuals), Hyungkoo Lee
+    * [Face Corsets](http://paddyhartley.com/face-corsets-phase-1/)
   * Connections
     * [Social Sewing](http://mikevanis.com/social-sewing), Mike Vanis
     * [Linguaphone of Tremulous Communion](http://www.chris-reilly.org/art/linguaphone-of-tremulous-communion/), Chris Reilly
