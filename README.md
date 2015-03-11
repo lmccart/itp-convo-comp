@@ -68,7 +68,7 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ###Week 5 (2/25): [Physical augmentation](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
-* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
+* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41) (DUE 4/1)__
 
 ###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
 * Review project proposals
@@ -77,18 +77,18 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ###Week 8 (4/1): [Alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Alternatives)
-* **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325)**
+* **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41)**
 
 ##Part 3: Public and performance
 
 ###Week 9 (4/8): [Performing conversation](https://github.com/lmccart/itp-convo-comp/wiki/Performing-conversation)
 * [David Leonard](davidleonard.tv) guest skype visit
-* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422) (DUE 4/22)__
+* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
 
 ###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
 ###Week 12 (4/29): Final project presentations
-* **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422)**
+* **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
 * Wrap-up
