@@ -1,8 +1,6 @@
 
 ##Part 2: Physical augmentation and alternatives
 
-####Week 5: Physical augmentation
-
   
 
 ####Week 6: Physical analysis

@@ -57,123 +57,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 2 (2/4): Linguistic analysis
 
-* Tools
-  * [Local server tutorial](https://github.com/shiffman/The-Nature-of-Code-JTerm-2015/wiki/Local-Server-Tutorial)
-  * [Language analysis code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Language_Analysis) 
-  * [Using APIs code examples](https://github.com/lmccart/itp-convo-comp/tree/master/Using_APIs)
-  * [AlchemyAPI](http://www.alchemyapi.com/products/demo/alchemylanguage/) - [developer guide](http://www.alchemyapi.com/developers/getting-started-guide/)
-  * [Text-Processing](http://text-processing.com/) - [API on Mashape](https://www.mashape.com/japerk/text-processing/Pricing)
-  * [Mashape](https://www.mashape.com/explore?query=language&page=1) -  searchable database of APIs
-  * [natural node module](https://github.com/NaturalNode/natural) includes tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity.
-  * [RiTa](http://rednoise.org/rita/) - natural language and generative literature toolkit
-  * [Chrome speech to text API](http://shapeshed.com/html5-speech-recognition-api/) - [demo](http://www.google.com/intl/en/chrome/demos/speech.html)  
-  * [Everything-but-the-Chat](https://github.com/lmccart/everything-but-the-chat) combines LIWC + WebRTC + websockets + facetracking
-* References
-  * [JS Text Analysis tutorial](http://shiffman.net/teaching/a2z/analysis/), Dan Shiffman - text concordance, TF-IDF, Bayesian filtering
-  * [Regex tutorial](http://shiffman.net/teaching/a2z/regex/), Dan Shiffman 
-  * [The Secret Life of Pronouns](http://secretlifeofpronouns.com/) 
-  * [Metaphors We Live By](http://www.amazon.com/Metaphors-We-Live-George-Lakoff/dp/0226468011), George Lakoff - [clip](https://www.youtube.com/watch?v=vm0R1du1GqA&list=PL7W7QjZ8OBa9Oa5nFHKiGUSJY52rdmoj3&index=2)
-  * Noam Chomsky - [clip](https://www.youtube.com/watch?v=PBnahmmz1X4)
-  * [Conversation analysis](http://en.wikipedia.org/wiki/Conversation_analysis), [tutorial](http://homepages.lboro.ac.uk/~ssca1/intro1.htm)
-* Survey
-  * [ReConstitution 2008](http://sosolimited.com/work/reconstitution-2008/), Sosolimited
-  * [Prime Numerics](https://vimeo.com/11755205), Sosolimited 
-  * [Moveable Type](http://o-c-r.org/portfolio/moveable-type/), The Office for Creative Research
-  * [Shuffle](http://o-c-r.org/portfolio/shuffle/), The Office for Creative Research
-  * [Shakespeare Machine](http://o-c-r.org/portfolio/shakespeare-machine/), The Office for Creative Research
-  * [A More Perfect Union](http://music.columbia.edu/~luke/projects/index.shtml?id=perfect), R. Luke Dubois
-  * [MIssed Connections](http://lukedubois.com/), R. Luke Dubois
-  * [FB Demetricator ](http://bengrosser.com/projects/facebook-demetricator), Ben Grosser
-  * [Samaritan's Radar](https://www.samaritansradar.org/)
-  * [Feltron Annual Report](http://feltron.com/FAR13.html), Nicholas Felton - [NYTimes article](http://bits.blogs.nytimes.com/2014/08/19/a-life-in-data-nicholas-feltons-self-surveillance)
-  * [Crying to Dragon](http://www.sophiabrueckner.com/dragon.html), Sophia Brueckner
-  * [What a Hundred Million Calls to 311 Reveal About New York](http://www.wired.com/2010/11/ff_311_new_york/all/1), Pitch Interactive
-  * [Relationship Dance Steps](http://www.stefanieposavec.co.uk/data/#/facebook-art-residency-relationship-dance-steps/), Stefanie Posavec
-
 ###Week 3 (2/11): Scripting and automation
-* [Speaking Machine](http://en.wikipedia.org/wiki/Wolfgang_von_Kempelen's_Speaking_Machine), Wolfgang von Kempelen 1769 - [illustration](http://www2.ling.su.se/staff/hartmut/bilder/kempln24.gif), [video](https://www.youtube.com/watch?v=zYRVqrfY3tQ), creator of [The Turk](http://en.wikipedia.org/wiki/The_Turk)
-* [Speaking Machine recontruction](http://www2.ling.su.se/staff/hartmut/bilder/sfaber.gif), Sir Charles Wheatstone 1837
-* [Voder](http://en.wikipedia.org/wiki/Voder), Homer Dudley 1939 - [video](https://www.youtube.com/watch?v=0rAyrmm7vv0)
-* [Computing Machinery and Intelligence](http://www.loebner.net/Prizef/TuringArticle.html), A.M. Turing and [Chinese Room thought experiment](http://en.wikipedia.org/wiki/Chinese_room), John Searle
-* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) - [clip](https://www.youtube.com/watch?v=CJWOOTMt4ko) (1964)
-* [Almost Human: The Surreal, Cyborg Future of Telemarketing](http://www.theatlantic.com/technology/archive/2013/12/almost-human-the-surreal-cyborg-future-of-telemarketing/282537/) - ["I am a real person!"](http://io9.com/freakishly-realistic-telemarketing-robots-are-denying-t-1481050295)
-* Bots
-  * [About a Bot: Hoax, Fake, Performance Art](http://journal.media-culture.org.au/index.php/mcjournal/article/viewArticle/814), Tania Bucher 
-  * [Closed Bots and Green Bots: Two Archetypes of Computational Media](https://gist.github.com/tullyhansen/7621632), Mark Sample
-  * [Taxonomy of Twitter Bots](https://gist.github.com/tullyhansen/7621632) and [Twitter Bot family tree](http://www.samplereality.com/wp-content/uploads/2014/06/hansen-bot-taxonomy.png), Tully Hansen 
-  * [Bots Should Punch Up](http://www.crummy.com/2013/11/27/0)
-  * [Bot Summit 2014](http://tinysubversions.com/botsummit/2014/)
-  * [After Twitter bot makes death threat, its owner gets questioned by police](http://fusion.net/story/47353/twitter-bot-death-threat/)
-* Corpus resources
-  * [Corpus of Contemporary American English](http://corpus.byu.edu/coca/)
-  * [Corpora](https://github.com/dariusk/corpora), Darius Kazemi -  collection of small corpuses of interesting data for the creation of bots and similar stuff
-  * [Wordnet](http://wordnet.princeton.edu/wordnet/) - large lexical database of English - [WNdb npm module](https://github.com/moos/WNdb), [natural node module](https://github.com/NaturalNode/natural)
-  * [Project Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - free ebooks 
-  * [List of various corpus resources](http://courses.washington.edu/englhtml/engl560/corplingresources.htm)
-* Tools 
-  * [IFTTT](https://ifttt.com/) 
-  * [text message via email](http://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/)
-  * [Postcard API](https://lob.com/blog/how-to-send-postcards-as-effortlessly-as-email)
-  * [Yo](http://dev.justyo.co/)
-  * Tinder
-	* [Node API](https://www.npmjs.org/package/tinderbot)
-	* [Python API](https://github.com/Coriou/py-tinder)
-  * [Snapchat](http://gibsonsec.org/snapchat/fulldisclosure/)
-    * [Unofficial Python API](https://github.com/niothiel/snapchat-python)
-  * [Twilio](https://www.twilio.com/docs/api) lets you work with phones
-  * [Gmail scripting](https://developers.google.com/apps-script/reference/gmail/)  
-  * [Mechanical Turk](https://www.mturk.com/mturk/welcome)
-    * [Kitchen Table Coders workshop resouces](http://kitchentablecoders.com/class/2013/08/10/mturk-workshop/)
-    * https://github.com/jefftimesten/mturk - nodejs wrapper for MTurk
-    * https://github.com/mdp/rturk - ruby wrapper for MTurk
-    * https://github.com/twitter/clockworkraven - webapp for MTurk interface, created by Twitter
-    * http://aws.amazon.com/code/Amazon-Mechanical-Turk
-  * Generating text
-    * [n-grams](http://www.rednoise.org/pdal/index.php?n=Main.N-Grams), Daniel Howe - [Google ngram viewer](https://books.google.com/ngrams)
-    * [Markov Chains](http://shiffman.net/teaching/a2z/generate/), Dan Shiffman
-    * [MegaHAL](http://megahal.alioth.debian.org/)
-    * [Grammars](http://www.rednoise.org/pdal/index.php?n=Main.Grammars), Daniel Howe - [Chomsky grammar hierarchy](http://en.wikipedia.org/wiki/Chomsky_hierarchy)
-    * [Wordnik API](http://developer.wordnik.com/) - definitions, example sentences, spelling suggestions, related words like synonyms and antonyms, phrases containing a given word, word autocompletion, random words, words of the day, etc
-    * [RiTA](http://www.rednoise.org/rita/) - text-generation via Context-Free Grammars and Markov-chains, taggers for Syllables, Phonemes, Stress, Part-of-Speech, tokenization, verb conjugation, pluralization, and stemming
-  * Twitter Bots
-    * [node-twit](https://github.com/ttezel/twit) - Twitter module for nodejs
-    * [node-twitterbot](https://www.npmjs.com/package/node-twitterbot) - Twitter bot module for nodejs (uses twit)
-  * Chat Bots
-    * [Hubot](https://hubot.github.com/) - a many featured, extensible command line bot
-    * [A lot of bots](http://meta-guide.com/software-meta-guide/100-best-github-chatbot/)
-    * [socket.io](http://socket.io/) - create your own chat application
-* Survey
-  * [MACH:My Automated Conversation coacH](http://web.media.mit.edu/~mehoque/MACH.htm), Eshan Hoque
-  * Conversation prompting
-    * [White Christmas](https://www.youtube.com/watch?v=0okH6MsG3eU) - Black Mirror Christmas Special
-    * [Social Turkers](http://socialturkers.com)
-    * [Auto-Theater](https://www.youtube.com/watch?v=TzKed84hFlM&feature=youtu.be), Daniel Spoerri - [Guggenheim clip](http://instagram.com/p/xc3P79TLjC/?modal=true)
-    * [Conversacube](http://lauren-mccarthy.com/conversacube/)
-    * [Devices for Mindless Communication](http://www.di10.rca.ac.uk/gerardrallo/), Gerard Rallo
-  * Love automation
-    * Christopher Strachey's [1952 love letter generator](http://www.alpha60.de/art/love_letters/), [more](http://www.gingerbeardman.com/loveletter/), and more in [Rhizome's Queer History of Computing](http://rhizome.org/editorial/2013/apr/9/queer-history-computing-part-three/))
-    * [BreakupText](https://itunes.apple.com/us/app/breakuptext/id674333306?ls=1&mt=8)
-    * [MakeupText](https://itunes.apple.com/us/app/makeuptext/id681601569?ls=1&mt=8)
-    * [OkCupid auto-spammer](https://github.com/shawn-simon/okspam)
-    * [BroApp](http://jezebel.com/i-tried-broapp-and-it-did-not-turn-me-into-an-awesome-b-1536966006)  
-    * [Romantimatic](http://romantimatic.com/)
-    * [tinderbox](https://github.com/crockpotveggies/tinderbox)
-    * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti
-  * Bots
-    * [Darius Kazemi](https://twitter.com/dariusbots)
-    * [everyword](https://twitter.com/everyword)
-    * [On Kawara tribute](https://twitter.com/On_Kawara)
-    * [Horse_ebooks](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
-    * [Pentametron](http://www.npr.org/2013/02/16/172031066/pentametron-reveals-unintended-poetry-of-twitter-users), Ranjit Bhatnagar
-    * [Human Powered Chatbot](http://hadto.net/projects/human-powered-chatbot/), David Elliot
-    * [Drunk Eliza](http://danieltemkin.com/DrunkEliza/), Daniel Tempkin
-  * Instructions
-    * [Fluxus workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
-  * [Karaoke Answering Machine](http://archiv.videonale.org/en/video-library/uvw/welty/), Rachel Perry Welty
-  * [Game of Phones](http://www.davidlubl.in/game-of-phones/), David Lublin
-  * [The Adventures of Teen Bloggers](http://www.teenbloggers.net/), Sam Brenner
-  * [eterni.me](http://eterni.me/) collects almost everything that you create during your lifetime, and processes this huge amount of information using complex Artificial Intelligence algorithms. Then it generates a virtual YOU, an avatar that emulates your personality and can interact with, and offer information and advice to your family and friends, even after you pass away.
-  * [emotional-labor.email](https://medium.com/message/canned-email-eb6f4ba843d9), Joanne McNeil
   
 ###Week 4 (2/18): Generation and bots
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
@@ -184,59 +68,10 @@ This class will be participatory, you are expected to participate in discussions
 
 
 ###Week 5 (2/25): Physical augmentation 
-* Devices / objects
-* Physical feedback
-* [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd), Sara Hendren
-* [What My Hearing Aid Taught Me About the Future of Wearables](http://www.theatlantic.com/technology/archive/2015/02/what-my-hearing-aid-taught-me-about-the-future-of-wearables/385145/#disqus_thread)
-* [Resource on Person-First Language](http://www.asha.org/publications/journals/submissions/person_first.htm* )
-* Survey
-  * Devices / objects  
-    * [Krzysztof Wodiczko](http://www.pbs.org/art21/artists/krzysztof-wodiczko/)
-    * [Crowbot Jenny](http://sputniko.com/2011/08/crowbot-jenny-2011/), Sputniko!
-    * [Blendie](http://web.media.mit.edu/~monster/blendie/), Kelly Dobson
-    * [ScreamBody](http://web.media.mit.edu/~monster/screambody/), Kelly Dobson
-    * [Conversacube](http://lauren-mccarthy.com/conversacube), Lauren McCarthy
-    * [Unguarded Gestures](http://ablersite.org/2013/03/19/jennifer-crupis-unguarded-gestures/), Jennifer Crupi  
-    * [Robot Mask](https://www.flickr.com/photos/arselectronica/14850167242/in/set-72157645836103108), Kenji Suzuki, Dushyantha Jayatilake
-    * [Robot Eyes for Bitchy Resting Face](https://medium.com/message/robot-eyes-for-bitchy-resting-face-6de6b8ad786e) 
-    * [Evidence Dolls](http://www.dunneandraby.co.uk/content/projects/69/0), Dunne+Raby
-    * [Touchy](http://touchtouchy.com/), Eric Siu
-    * [Personal Robots Group](http://robotic.media.mit.edu/project-portfolio/), MIT Media Lab
-    * [Affective Computing Group](http://affect.media.mit.edu), MIT Media Lab  
-    * [The Objectuals](http://www.lilyandlamb.com/blog/hyungkoo-lee-the-objectuals), Hyungkoo Lee
-    * [Face Corsets](http://paddyhartley.com/face-corsets-phase-1/)
-  * Connections
-    * [Social Sewing](http://mikevanis.com/social-sewing), Mike Vanis
-    * [Linguaphone of Tremulous Communion](http://www.chris-reilly.org/art/linguaphone-of-tremulous-communion/), Chris Reilly
-    * [I'm Taller Than Most People I Know](http://www.jacobtonski.com/tallerthanmost/), Jacob Tonski
-    * [Tentative Architectures](http://www.studio-orta.com/en/artworks/serie/33/Body-Architecture), Lucy + Jorge Orta
-    * [Social Body Lab](http://research.ocadu.ca/socialbody/home)
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
 
 ###Week 6 (3/4): Physical analysis
-* Body language
-* Face tracking
-* Expression detection
-* Technical:
-  * [Computer Vision for Artists and Designers](http://www.flong.com/texts/essays/essay_cvad/) by Golan Levin 
-  * [Face Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2) for Appropriating New Technologies / Face as Interface workshop, Kyle McDonald
-  * [Eye Tracking Notes](https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-5) for Appropriating New Technologies, Kyle McDonald
-  * [Computer Vision in Interactive Art](https://docs.google.com/document/d/1Yky5TpKrxNDQzD7sXQ8gGpYFTsQhac1PrjYLQ3X_zJQ/edit?usp=sharing), Kyle McDonald
-  * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) by Richard Szeliski
-  * [OpenCV-Processing book](https://github.com/atduskgreg/opencv-processing-book/blob/master/book/toc.md) in progress by Greg Borenstein includes a great ontology of computer vision. He's also responsible for [Making Things See]
-(https://github.com/atduskgreg/Making-Things-See-Examples) which focuses on Kinect.
-* Survey
-  * [Pay Per Laugh](https://www.youtube.com/watch?v=V0FowbxEe3w)
-  * [Mark and Emily](http://keithlafuente.com/Mark-Emily), Keith LaFuente
-  * [Eyewriter](http://www.eyewriter.org/)
-  * [Could a virtual therapist really help with your personal problems?](http://io9.com/could-a-virtual-therapist-really-help-with-your-persona-508887569)
-  * [Expression Dispatcher](http://www.di10.rca.ac.uk/gerardrallo/expressions-dispatcher.html), Gerard Rallo 
-  * [Cheese](http://www.christian-moeller.com/display.php?project_id=36), Christian Moeller
-  * [Mother](http://www.inmilee.net/untitled.html), Inmi Lee, Kyle McDonald
-  * [Standards and Double Standards](https://vimeo.com/33931469), Rafael Lozano-Hemmer
-  * [Face Cages](http://www.zachblas.info/), Zach Blas
-  * [Sharing Faces](), Kyle McDonald
 
 ###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
