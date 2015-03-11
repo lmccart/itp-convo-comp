@@ -6,7 +6,6 @@
   <script src="p5.dom.js"></script>
   <script>
   var vid;
-  var face;
 
   function setup() {
     vid = createVideo('assets/video.mp4');
@@ -14,7 +13,8 @@
     vid.position(0, 0);
     vid.loop();
 
-    face = createDiv('');
+    var c = createCanvas(vid.width, vid.height);
+    c.position(0, 0);
   }
 
   function mousePressed() {
@@ -24,18 +24,19 @@
 
   function mouseReleased() {
     vid.play();
-    face.hide();
+    clear();
   }
 
   function detect() {
     $('#vid').faceDetection({
       interval: 1,
       complete: function (faces) {
-        if (faces.length > 0) {
-          face.show();
-          face.position(faces[0].x * faces[0].scaleX, faces[0].y * faces[0].scaleY);
-          face.size(faces[0].width  * faces[0].scaleX, faces[0].height * faces[0].scaleY);
-          face.style('background', 'black');
+        for (var i=0; i<faces.length; i++) {
+          var x = faces[i].x * faces[i].scaleX;
+          var y = faces[i].y * faces[i].scaleY;
+          var w = faces[i].width  * faces[i].scaleX;
+          var h = faces[i].height  * faces[i].scaleY;
+          rect(x, y, w, h);
         }
       }
     });

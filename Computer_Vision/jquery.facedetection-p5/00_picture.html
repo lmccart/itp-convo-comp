@@ -5,7 +5,6 @@
   <script src="p5.js"></script>
   <script src="p5.dom.js"></script>
   <script>
-  var rects = [];
   var img;
 
   function setup() {
@@ -13,14 +12,14 @@
     img.id('picture');
     img.position(0, 0);
 
-    img.drop(gotFile);
+    var c = createCanvas(img.width, img.height);
+    c.position(0, 0);
+    c.drop(gotFile);
   }
   
   function gotFile(file) {
     img.attribute('src', file.data);
-    for (var i=0; i<rects.length; i++) {
-      rects[i].remove();
-    }
+    clear();
     detect();
   }
 
@@ -30,10 +29,11 @@
       complete: function (faces) {
         for (var i = 0; i < faces.length; i++) {
           var d = createDiv('');
-          d.position(faces[i].x * faces[i].scaleX, faces[i].y * faces[i].scaleY);
-          d.size(faces[i].width  * faces[i].scaleX, faces[i].height * faces[i].scaleY);
-          d.style('background', 'black');
-          rects.push(d);
+          var x = faces[i].x * faces[i].scaleX;
+          var y = faces[i].y * faces[i].scaleY;
+          var w = faces[i].width  * faces[i].scaleX;
+          var h = faces[i].height  * faces[i].scaleY;
+          rect(x, y, w, h);
         }
       }
     });
