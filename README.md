@@ -55,11 +55,11 @@ This class will be participatory, you are expected to participate in discussions
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
 
-###Week 2 (2/4): Linguistic analysis
+###Week 2 (2/4): [Linguistic analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
 
-###Week 3 (2/11): Scripting and automation
+###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
-###Week 4 (2/18): Generation and bots
+###Week 4 (2/18): [Generation and bots]((https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots))
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
@@ -67,12 +67,12 @@ This class will be participatory, you are expected to participate in discussions
 ##Part 2: Physical augmentation and alternatives
 
 
-###Week 5 (2/25): Physical augmentation 
+###Week 5 (2/25): [Physical augmentation](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
 
-
-###Week 6 (3/4): Physical analysis
-
+###Week 6 (3/4): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
+* Review project ideas
+* 
 ###Week 7 (3/11): Physical x virtual
 * Google Hangout apps
 * Browser extensions
