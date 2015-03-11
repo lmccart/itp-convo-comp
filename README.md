@@ -59,7 +59,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
-###Week 4 (2/18): [Generation and bots]((https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots))
+###Week 4 (2/18): [Generation and bots](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
