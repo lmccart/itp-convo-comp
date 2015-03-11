@@ -70,7 +70,7 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 5 (2/25): [Physical augmentation](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
 * __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41) (DUE 4/1)__
 
-###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
+###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-analysis)
 * Review project proposals
 
 ###Week 7 (3/25): [Physical x virtual](https://github.com/lmccart/itp-convo-comp/wiki/Physical-x-virtual)
