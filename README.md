@@ -89,6 +89,6 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
-###Week 12 (4/29): Final project presentations
+###Week 12 (Date TBD): Final project presentations
 * **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
 * Wrap-up
