@@ -17,15 +17,11 @@
     c.position(0, 0);
   }
 
-  function mousePressed() {
-    vid.pause();
+  function draw() {
+    clear();
     detect();
   }
 
-  function mouseReleased() {
-    vid.play();
-    clear();
-  }
 
   function detect() {
     $('#vid').faceDetection({

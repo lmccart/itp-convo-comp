@@ -48,8 +48,15 @@
           var faceH = positions[7][1] - positions[33][1];
           var mouthR = mouthH/faceH;
 
-          var v = constrain(map(mouthR, 0.05, 0.25, 0, 10), 0, 10);
-          mouthSound.setVolume(v);
+          console.log(mouthR);
+
+          if (mouthR > 0.1) {
+            var u = new SpeechSynthesisUtterance('hello there');
+            speechSynthesis.speak(u);
+          } else {
+            speechSynthesis.cancel();
+          }
+
         }
 
       }
