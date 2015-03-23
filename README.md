@@ -48,7 +48,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 1: Language analysis and automation
 
-###Week [1](https://www.youtube.com/watch?v=jB4xlYKAVCQ) (1/28): Introduction
+###Week 1 (1/28): Introduction
 * Intro and syllabus
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
