@@ -59,7 +59,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
-###Week 4 (2/18): [Generation and bots](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
+###Week 4 (2/18): Review
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
@@ -73,10 +73,10 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-analysis)
 * Review project proposals
 
-###Week 7 (3/25): [Physical x virtual](https://github.com/lmccart/itp-convo-comp/wiki/Physical-x-virtual)
+###Week 7 (3/25): [Physical alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Physical-alternatives)
 
 
-###Week 8 (4/1): [Alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Alternatives)
+###Week 8 (4/1): Review
 * **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41)**
 
 ##Part 3: Public and performance
@@ -89,6 +89,6 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
-###Week 12 (Date TBD): Final project presentations
+###Week 12 (Date TBD): Final review
 * **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
 * Wrap-up
