@@ -55,11 +55,11 @@ This class will be participatory, you are expected to participate in discussions
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
 
-###Week 2 (2/4): Linguistic analysis
+###Week 2 (2/4): [Linguistic analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
 
-###Week 3 (2/11): Scripting and automation
+###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
-###Week 4 (2/18): Generation and bots
+###Week 4 (2/18): [Generation and bots](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
@@ -67,63 +67,28 @@ This class will be participatory, you are expected to participate in discussions
 ##Part 2: Physical augmentation and alternatives
 
 
-###Week 5 (2/25): Physical augmentation 
-* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325) (DUE 3/25)__
+###Week 5 (2/25): [Physical augmentation](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
+* __[Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41) (DUE 4/1)__
+
+###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-analysis)
+* Review project proposals
+
+###Week 7 (3/25): [Physical x virtual](https://github.com/lmccart/itp-convo-comp/wiki/Physical-x-virtual)
 
 
-###Week 6 (3/4): Physical analysis
-
-###Week 7 (3/11): Physical x virtual
-* Google Hangout apps
-* Browser extensions
-* Skype, Twilio, webRTC
-* Survey
-  * [The Radio as an Apparatus of Communication](http://alltheartever.tumblr.com/post/108065923059/der-lindberghflug-the-lindbergh-flight-by), Bertolt Brecht 1929
-  * [A Hole in Space](http://alltheartever.tumblr.com/post/103284895404/a-hole-in-space-kit-galloway-and-sherrie), Kit Galloway and Sherrie Rabinowitz 1980 - [more](http://www.medienkunstnetz.de/works/hole-in-space/)
-  * [No Fun](http://0100101110101101.org/no-fun/), Eva and Franco Mattes
-
-
-###Week 8 (3/25): Alternatives
-* **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-325)**
-* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
-* Sign language
-* Braille 
-* Emoji
-* Survey
-  * [Let's Chat!](http://fathom.info/latest/8400), Lee Cusack
+###Week 8 (4/1): [Alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Alternatives)
+* **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41)**
 
 ##Part 3: Public and performance
 
-###Week 9 (4/1): Performing conversation
-* Erving Goffman, Harold Garfinkel
-* Scripts, cues, prompts, improv
-* http://www.npr.org/programs/invisibilia/378577902/how-to-become-batman?showDate=2015-01-23
-* Survey
-  * [Somebody App](http://somebodyapp.com/), Miranda July
-  * [Acting Stranger](http://www.actingstranger.com/), Andrew Schneider
-  * [Rejection Line](http://rejectionline.com/), Jonah and Chelsea Peretti 2001
-  * [Inbox Full](https://www.youtube.com/watch?v=XdfIXkwvU1Y), Molly Soda
-* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-422) (DUE 4/22)__
+###Week 9 (4/8): [Performing conversation](https://github.com/lmccart/itp-convo-comp/wiki/Performing-conversation)
+* [David Leonard](davidleonard.tv) guest skype visit
+* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
 
-###Week 10 (4/8): Public conversation
-* Online social dynamics
-  * [Online abuser dynamics](https://soundcloud.com/eyebeamnyc/new-topics-in-social-computing-online-abuser-dynamics) with Erin Kissane, Sydette Harry and Melissa Gira Grant, moderated by Joanne McNeil
-  * [This American Life: If You Don't Have Anything Nice to Say, SAY IT IN ALL CAPS](http://www.thisamericanlife.org/radio-archives/episode/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps) and [Feminist Frequency: One Week of Harassment on Twitter](http://femfreq.tumblr.com/post/109319269825/one-week-of-harassment-on-twitter)
-  * [How Salon tamed the trolls and saved its online comments](http://digiday.com/publishers/salon-tamed-trolls-saved-online-comments/)
-  * [Popular Yik Yak App Confers Anonymity and Delivers Abuse](http://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html?smprod=nytcore-ipad&smid=nytcore-ipad-share&_r=0)
-* Anonymity
-* Public text displays
-* Survey
-  * [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/) 
-  * [Vote Auction](http://www.vote-auction.net), Ubermorgen
+###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
 
-###Week 11 (4/15): Protest
-* Survey
-  * [TXTmob](http://www.appliedautonomy.com/txtmob.html)
-  * [FireChat](http://www.theverge.com/2014/10/16/6981127/firechat-messaging-app-accidental-protest-app-hong-kong) 
-  * [Notes from OWS](https://nplusonemag.com/online-only/occupy/notes-from-an-occupation/)
-  * [Occu-bot and Management-bot](http://taeyoonchoi.com/2011/12/occu-bot-and-financier-bot/), Taeyoon Choi
+###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
-###Week 12 (4/22): Final project presentations
-* **Review Project 3**
+###Week 12 (Date TBD): Final project presentations
+* **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
 * Wrap-up
