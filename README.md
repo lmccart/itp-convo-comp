@@ -86,6 +86,7 @@ This class will be participatory, you are expected to participate in discussions
 * __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
 
 ###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
+* [Caroline Sinders](http://caroline-sinders.squarespace.com/) guest lecture
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
