@@ -48,7 +48,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ##Part 1: Language analysis and automation
 
-###Week [1](https://www.youtube.com/watch?v=jB4xlYKAVCQ) (1/28): Introduction
+###Week 1 (1/28): Introduction
 * Intro and syllabus
 * [Speaking Code](http://mitpress.mit.edu/books/speaking-code-0), Geoff Cox and Alex McLean
 * __[Assignment 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-1-due-24) (DUE 2/4)__
@@ -59,7 +59,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
-###Week 4 (2/18): [Generation and bots](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
+###Week 4 (2/18): Review
 * **[Darius Kazemi](http://tinysubversions.com/) guest lecture**
 * **Review [Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218)**
 
@@ -73,10 +73,10 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 6 (3/11): [Physical analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-analysis)
 * Review project proposals
 
-###Week 7 (3/25): [Physical x virtual](https://github.com/lmccart/itp-convo-comp/wiki/Physical-x-virtual)
+###Week 7 (3/25): [Physical alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Physical-alternatives)
 
 
-###Week 8 (4/1): [Alternatives](https://github.com/lmccart/itp-convo-comp/wiki/Alternatives)
+###Week 8 (4/1): Review
 * **Review [Project 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-2-due-41)**
 
 ##Part 3: Public and performance
@@ -86,9 +86,10 @@ This class will be participatory, you are expected to participate in discussions
 * __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
 
 ###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
+* [Caroline Sinders](http://caroline-sinders.squarespace.com/) guest lecture
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
-###Week 12 (Date TBD): Final project presentations
+###Week 12 (Date TBD): Final review
 * **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
 * Wrap-up
