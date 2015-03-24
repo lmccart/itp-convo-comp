@@ -1,0 +1,149 @@
+
+<html>
+<head>
+  <style>
+  .button {
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+  }
+
+  input {
+    height: 26px;
+  }
+  .green {
+    background: rgb(28, 184, 65); /* this is a green */
+  }
+  .red {
+    background: rgb(202, 60, 60); /* this is a maroon */
+  }
+
+  #my-video, #their-video {
+    margin-top: 15px;
+    width: 40%;
+    background-color: #eee;
+  }
+
+  #video-container {
+    padding: 25px;
+    text-align: center;
+  }
+
+  #my-id {
+    font-weight: bold;
+  }
+
+  #buttons {
+    text-align: center;
+  }
+
+  #end-call-interface {
+    display: none;
+  }
+
+  </style>
+  <script src='https://code.jquery.com/jquery-2.1.3.min.js'></script>
+  <script src='http://cdn.peerjs.com/0.3/peer.js'></script>
+  <script>
+
+    // Compatibility shim
+    navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+
+    // PeerJS object
+    var peer = new Peer({ key: 'lwjd5qra8257b9', debug: 3, config: {'iceServers': [
+      { url: 'stun:stun.l.google.com:19302' } // Pass in optional STUN and TURN server for maximum network compatibility
+    ]}});
+
+    peer.on('open', function(){
+      $('#my-id').text(peer.id);
+    });
+
+    // Receiving a call
+    peer.on('call', function(call){
+      call.answer(window.localStream);
+      handleCall(call);
+    });
+
+
+    // Click handlers setup
+    $(function(){
+      $('#make-call').click(function(){
+        // Initiate a call!
+        var call = peer.call($('#callto-id').val(), window.localStream);
+        handleCall(call);
+      });
+
+      $('#end-call').click(function(){
+        window.existingCall.close();
+        resetInterface();
+      });
+
+      // Get things started
+      makeCall();
+    });
+
+    function makeCall() {
+      // Get audio/video stream
+      navigator.getUserMedia({audio: true, video: true}, function(stream){
+        // Set your video displays
+        $('#my-video').prop('src', URL.createObjectURL(stream));
+
+        window.localStream = stream;
+        resetInterface();
+      }, function(){ console.log('error') });
+    }
+
+    function resetInterface() {
+      $('#end-call-interface').hide();
+      $('#call-interface').show();
+    }
+
+    function handleCall(call) {
+      // Hang up on an existing call if present
+      if (window.existingCall) {
+        window.existingCall.close();
+      }
+
+      // Wait for stream on the call, then set peer video display
+      call.on('stream', function(stream){
+        $('#their-video').prop('src', URL.createObjectURL(stream));
+      });
+
+      // UI stuff
+      window.existingCall = call;
+      $('#their-id').text(call.peer);
+      call.on('close', resetInterface);
+      $('#call-interface').hide();
+      $('#end-call-interface').show();
+    }
+
+  </script>
+</head>
+<body>
+
+  <div>
+    <!-- Video area -->
+    <div id='video-container'>
+      <video id='their-video' autoplay=''></video>
+      <video id='my-video' muted='true' autoplay=''></video>
+    </div>
+
+    <div id='buttons'>
+
+      <div id='call-interface'>
+        <p>Your id: <span id='my-id'></span></p>
+        <div>
+          <input type='text' placeholder='Call user id...' id='callto-id'>
+          <span class='button green' id='make-call'>Call</span>
+        </div>
+      </div>
+
+      <div id='end-call-interface'>
+        <p>Currently in call with <span id='their-id'></span></p>
+        <p><span class='button red' id='end-call'>End call</span></p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
