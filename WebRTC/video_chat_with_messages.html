@@ -50,7 +50,7 @@
     navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
 
     // PeerJS object
-    var peer = new Peer({ key: 'lwjd5qra8257b9', debug: 3, config: {'iceServers': [
+    var peer = new Peer({ key: 'lwjd5qra8257b9', debug: 0, config: {'iceServers': [
       { url: 'stun:stun.l.google.com:19302' } // Pass in optional STUN and TURN server for maximum network compatibility
     ]}});
 
@@ -64,12 +64,24 @@
       handleCall(call);
     });
 
+    peer.on('connection', function(conn) {
+      conn.on('data', function(data){
+        // Will print 'hi!'
+        console.log(data);
+      });
+    });
 
     // Click handlers setup
     $(function(){
       $('#make-call').click(function(){
         // Initiate a call!
-        var call = peer.call($('#callto-id').val(), window.localStream);
+        var id = $('#callto-id').val();
+        var call = peer.call(id, window.localStream);
+        var conn = peer.connect(id);
+        conn.on('open', function(){
+          conn.send('hi!');
+        });
+
         handleCall(call);
       });
 
@@ -107,6 +119,7 @@
       // Wait for stream on the call, then set peer video display
       call.on('stream', function(stream){
         $('#their-video').prop('src', URL.createObjectURL(stream));
+
       });
 
       // UI stuff
