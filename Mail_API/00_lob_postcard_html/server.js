@@ -27,7 +27,8 @@ Lob.postcards.create({
     address_country: ''
   },
   front: '<html style="margin: 130px; font-size: 50;">FRONT HTML</html>',
-  back: '<html style="margin: 130px; font-size: 50;">Back HTML</html>'
+  back: '<html style="margin: 130px; font-size: 50;">Back HTML</html>',
+  template: 1
 }, function (err, res) {
   console.log(err, res);
 });

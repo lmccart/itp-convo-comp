@@ -46,7 +46,6 @@ function sendCard(file) {
       address_zip: 11211,
       address_country: ''
     },
-    to: 'adr_e9bad835a7a2a507',
     front: '@'+file,
     message: 'hi there #testing',
     full_bleed: 1

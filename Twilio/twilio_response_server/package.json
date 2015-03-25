@@ -1,0 +1,11 @@
+{
+  "name": "convocomp",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node call_server.js"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "twilio": "^1.11.1"
+  }
+}

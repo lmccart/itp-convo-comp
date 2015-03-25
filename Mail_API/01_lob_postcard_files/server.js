@@ -35,7 +35,8 @@ function sendCard(f_html, b_html) {
       address_country: ''
     },
     front: f_html,
-    back: b_html
+    back: b_html,
+    template: 1
   }, function (err, res) {
     console.log(err, res);
   });
