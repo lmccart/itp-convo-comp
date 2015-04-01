@@ -7,5 +7,9 @@
   "dependencies": {
     "express": "^4.12.3",
     "twilio": "^1.11.1"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "2.2.x"
   }
 }
