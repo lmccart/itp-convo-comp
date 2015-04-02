@@ -1,46 +1,6 @@
 
-##Part 2: Physical augmentation and alternatives
-
-  
-
-####Week 6: Physical analysis
-* [Talk Therapy](http://www.chris-reilly.org/art/talk-therapy/), Chris Reilly
-
-####Week 7: Phyiscal x virtual
-
-  * [How are We Going to Talk After This?](http://www.chris-reilly.org/art/how-are-we-going-to-talk-after-this/), Chris Reilly
-    * http://ablersite.org/2012/10/17/matthias-gommels-delayed/
-    
-* Physical feedback
-
-
-####Week 8: Alternatives
-* Google Hangout apps
-* Browser extensions
-* Skype, Twilio, webRTC
-* Survey
-  * [Speaking Exchange](http://ablersite.org/2014/06/05/speaking-exchange/)
-* Sign language
-  * [Pushing Science’s Limits in Sign Language Lexicon](http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?pagewanted=1&_r=2&hp&adxnnlx=1355343233-SxIlOSHbDOJCM8VPk75NTg&), NYT 
-  * [Signed Languages Can Do So Many Things Spoken Languages Can't](http://www.theguardian.com/commentisfree/2014/oct/20/signed-languages-can-do-so-many-things-spoken-languages-cant?CMP=twt_gu), The Guardian
-* Braille 
-* [The Conservatism of Emoji](http://thenewinquiry.com/essays/the-conservatism-of-emoji/), Kate Crawford and Luke Stark
-* Physical correspondence, [mail art](http://en.wikipedia.org/wiki/Mail_art)
-  * [MoMA Mail Art exhibit](http://www.moma.org  /interactives/exhibitions/2014/analognetwork/) 
-  * [On Kawara](http://en.wikipedia.org/wiki/On_Kawara)
-  
-
 ##Part 3: Public and performance
 
-####Week 9 (4/1): Performing conversation
-* Erving Goffman, Harold Garfinkel
-* Scripts, cues, prompts, improv
-* http://therealannhirsch.com/playground.html
-* http://hyperallergic.com/94735/how-writing-is-like-performance/
-* http://iamsellingsocialinteraction.com/
-* http://www.stefanieposavec.co.uk/data/#/facebook-art-residency-relationship-dance-steps/
-    * [Learning to Love You More](http://www.learningtoloveyoumore.com/)
-    * http://www.mandiberg.com/the-essential-guide-to-performing-michael-mandiberg/
 ####Week 10 (4/8): Public conversation
 
 * Anonymity
@@ -51,7 +11,3 @@
   * http://projects.jennyholzer.com/ 
   * http://www.theguardian.com/culture/2004/oct/12/1
 * http://act.mit.edu/people/lecturers/matthew-mazzotta/
-####Week 11 (4/15): Protest
-
-
-####Week 12 (4/22): Final project presentations
