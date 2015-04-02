@@ -19,29 +19,19 @@ app.get('/', function(req, res) {
 
 // set up routes
 app.get('/hello', function(req, res) {
+  var msg = req.query.Body.toLowerCase();
 
   var twiml = new twilio.TwimlResponse();
-  twiml.say('hello!');
-
-  res.type('text/xml');
-  res.send(twiml.toString());
-});
-
-app.get('/feeling', function(req, res) {
-  var digit = req.query.Digits;
-
-  var twiml = new twilio.TwimlResponse();
-  twiml.say('oh cool');
-  if (digit == '1') {
-    twiml.say('I am glad to hear that.');
-  } else if (digit == '2') {
-    twiml.say('I am sorry to hear that.');
+  
+  if (msg == 'i feel good') {
+    twiml.message('I am glad to hear that.');
+  } else if (msg == 'i feel bad') {
+    twiml.message('I am sorry to hear that.');
   } else {
-    twiml.say('Say what?');
+    twiml.message('Say what?');
   }
 
   res.type('text/xml');
   res.send(twiml.toString());
-
 });
 

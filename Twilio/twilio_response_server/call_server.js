@@ -21,7 +21,8 @@ app.get('/', function(req, res) {
 app.get('/hello', function(req, res) {
 
   var twiml = new twilio.TwimlResponse();
-  twiml.say('Welcome to automated emotion management service!');
+  twiml.say('hello!');
+
   twiml.gather({
     action:'/feeling',
     method:'GET',
@@ -40,6 +41,7 @@ app.get('/feeling', function(req, res) {
   var digit = req.query.Digits;
 
   var twiml = new twilio.TwimlResponse();
+  twiml.say('oh cool');
   if (digit == '1') {
     twiml.say('I am glad to hear that.');
   } else if (digit == '2') {
