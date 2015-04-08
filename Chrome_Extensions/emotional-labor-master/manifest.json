@@ -1,8 +1,8 @@
 {
-    "name": "Gmail emo labor",
+    "name": "Gmail emotional labor",
     "version": "2.0",
     "manifest_version": 2,
-    "description": "Gmail emo labor",
+    "description": "Gmail emotional labor",
     "browser_action": {
       "default_icon": "icon.png",
       "default_popup": "popup.html"

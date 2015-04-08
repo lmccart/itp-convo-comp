@@ -1,0 +1,17 @@
+{
+  "name": "Speaking Extensions",
+  "manifest_version": 2,
+  "description": "Speech Synthesis API.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "jquery.js",
+        "content_script.js"
+      ]
+    }
+  ]
+}

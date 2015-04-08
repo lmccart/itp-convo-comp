@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "One-click Kittens",
-  "description": "This extension demonstrates a 'browser action' with kittens.",
+  "name": "One-click Weather",
+  "description": "This extension demonstrates a 'browser action' with weather.",
   "version": "1.0",
 
   "browser_action": {

@@ -5,12 +5,12 @@ var numPosts;
 var site;
 
 $(document).ready(function(){
-    var host = window.location.hostname;
-    if (host.indexOf('twitter') != -1) site = 'tw';
-    else if (host.indexOf('facebook') != -1) site = 'fb';
+  var host = window.location.hostname;
+  if (host.indexOf('twitter') != -1) site = 'tw';
+  else if (host.indexOf('facebook') != -1) site = 'fb';
 
-    doFriendFlop();
-    setInterval(doFriendFlop, 1000);
+  doFriendFlop();
+  setInterval(doFriendFlop, 1000);
 });
 
 
