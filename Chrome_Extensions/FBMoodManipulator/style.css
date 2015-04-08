@@ -1,0 +1,35 @@
+#manipulator {
+	background: #fff;
+	border: 1px solid;
+	border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+	-webkit-border-radius: 3px;
+	padding: 12px;
+	margin-bottom: 10px;
+}
+
+#man_heading {
+	position: relative;
+}
+
+#man_heading h6 {
+	position: absolute;
+	left: 26px;
+	top: 6px;
+}
+
+#manipulator .subtitle {
+	color: #9197a3;
+	margin: 0 0 10px 0;
+}
+
+#manipulator table {
+	border-spacing: 0;
+}
+
+#manipulator td {
+	padding-right: 10px;
+}
+
+#manipulator input {
+	width: 100%;
+}

@@ -18,6 +18,7 @@ port(3000);
 
 // Set up routes.
 serveFiles('public');
+
 route('/sendDrawing', function(request) {
   var img = request.fields.img;
   var data = img.replace(/^data:image\/\w+;base64,/, "");

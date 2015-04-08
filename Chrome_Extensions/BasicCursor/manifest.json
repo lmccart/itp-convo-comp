@@ -1,0 +1,20 @@
+{
+  "name": "Basic Cursor",
+  "manifest_version": 2,
+  "description": "Makes the cursor much cooler.",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mail.google.com/mail/*"
+      ],
+      "js": [
+        "scripts/jquery.js",
+        "scripts/content_script.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [
+    "glitter_cursor.gif"
+  ]
+}
