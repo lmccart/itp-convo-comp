@@ -83,6 +83,7 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 9 (4/8): [Performing conversation](https://github.com/lmccart/itp-convo-comp/wiki/Performing-conversation)
 * [David Leonard](davidleonard.tv) guest skype visit
+* __[Assignment 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-2-due-415) (DUE 4/15)__
 * __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
 
 ###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
