@@ -84,13 +84,13 @@ This class will be participatory, you are expected to participate in discussions
 ###Week 9 (4/8): [Performing conversation](https://github.com/lmccart/itp-convo-comp/wiki/Performing-conversation)
 * [David Leonard](davidleonard.tv) guest skype visit
 * __[Assignment 2](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#assignment-2-due-415) (DUE 4/15)__
-* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429) (DUE 4/29)__
+* __[Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-53) (DUE 5/3)__
 
 ###Week 10 (4/15): [Public conversation](https://github.com/lmccart/itp-convo-comp/wiki/Public-conversation)
 * [Caroline Sinders](http://caroline-sinders.squarespace.com/) guest lecture
 
 ###Week 11 (4/22): [Protest](https://github.com/lmccart/itp-convo-comp/wiki/Protest)
 
-###Week 12 (Date TBD): Final review
-* **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-429)**
+###Week 12 (Date 5/3): Final presentations
+* **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-53)**
 * Wrap-up
