@@ -95,4 +95,4 @@ This class will be participatory, you are expected to participate in discussions
 
 ###Week 12 (Date 5/3): Final presentations
 * **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-53)**
-* Wrap-up
+![](https://github.com/lmccart/itp-convo-comp/blob/master/convohack_poster.jpg)
