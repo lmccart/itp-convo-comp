@@ -16,7 +16,7 @@
 var geocoderProvider = 'google';
 var httpAdapter = 'https';
 var extra = {
-    apiKey: 'YOUR_GOOGLE_API_KEY',
+    apiKey: 'YOUR_GOOGLE_API_SERVER_KEY',
     formatter: null
 };
 
@@ -25,7 +25,7 @@ var Lob = require('lob')('YOUR_LOB_KEY');
 
 
 var n = 'Jane Smith';
-var a = '188 Eagle St Apt 14, Brooklyn';
+var a = '330 Havermeyer St #2a Brooklyn';
 
 mailCard(n, a);
 
@@ -47,11 +47,11 @@ function mailCard(name, address) {
       Lob.postcards.create({
         name: 'demo postcard job',
         from: {
-          name: 'Lauren McCarthy',
-          address_line1: '188 Eagle St #14',
-          address_city: 'Brooklyn',
-          address_state: 'NY',
-          address_zip: 11211,
+          name: '',
+          address_line1: '',
+          address_city: '',
+          address_state: '',
+          address_zip: 99999,
           address_country: 'US'
         },
         to: {
