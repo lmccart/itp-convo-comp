@@ -93,7 +93,7 @@ This class will be participatory, you are expected to participate in discussions
 * Review final presentations, feedback.
 * Finalize details.
 
-###Week 12 (5/3): [Convohack at Babycastles!](www.eventbrite.com/e/convohack-tickets-16615625784)
+###Week 12 (5/3): [Convohack at Babycastles!](https://www.facebook.com/events/414351048735876/)
 * **Review [Project 3](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-3-due-53)**
 
 <a href="http://www.eventbrite.com/e/convohack-tickets-16615625784"><img src="convohack_poster.jpg" height="600"></a>
