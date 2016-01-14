@@ -55,7 +55,7 @@ This class will be participatory, you are expected to participate in discussions
 * __[Project 1](https://github.com/lmccart/itp-convo-comp/wiki/Assignments#project-1-due-218) (DUE 2/18)__
 
 
-###Week 2 (2/4): [Linguistic analysis](https://github.com/lmccart/itp-convo-comp/wiki/Physical-augmentation)
+###Week 2 (2/4): [Linguistic analysis](https://github.com/lmccart/itp-convo-comp/wiki/Linguistic-analysis)
 
 ###Week 3 (2/11): [Scripting and automation](https://github.com/lmccart/itp-convo-comp/wiki/Scripting,-automation,-and-bots)
   
